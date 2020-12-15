@@ -442,6 +442,7 @@ textarea.input {
 
 
 
+
 .header-links li i {
   color: #fff;
   margin-right: 5px;
@@ -961,7 +962,7 @@ textarea.input {
 }
 
 .product .product-body .product-rating>i.fa-star {
-  color: #dac52e;
+  color: #dcc62c;
 }
 
 .product .product-body .product-rating:after {
@@ -1502,7 +1503,7 @@ textarea.input {
   font-size: 24px;
   margin-top: 10px;
   margin-bottom: 15px;
-  color: #D10024;
+  color: #65a722;
 }
 
 .product-details .product-price .product-old-price {
@@ -1516,7 +1517,7 @@ textarea.input {
   text-transform: uppercase;
   font-weight: 700;
   margin-left: 30px;
-  color: #D10024;
+  color: #1486ff;
 }
 
 .product-details .product-options {
@@ -1545,7 +1546,7 @@ textarea.input {
   border: 2px solid transparent;
   height: 40px;
   padding: 0 30px;
-  background-color: #ef233c;
+  background-color: #65a722;
   color: #FFF;
   text-transform: uppercase;
   font-weight: 700;
@@ -1561,15 +1562,15 @@ textarea.input {
   width: 40px;
   height: 40px;
   line-height: 38px;
-  color: #D10024;
+  color: #65a722;
   opacity: 0;
   visibility: hidden;
 }
 
 .product-details .add-to-cart .add-to-cart-btn:hover {
   background-color: #FFF;
-  color: #D10024;
-  border-color: #D10024;
+  color: #65a722;
+  border-color: #65a722;
   padding: 0px 30px 0px 50px;
 }
 
