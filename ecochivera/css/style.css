@@ -2020,20 +2020,30 @@ textarea.input {
 
 
 #bottom-footer.section{
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 10px;
+  
 }
 
+#bottom-footer.section span{
+  font-size: 10px;;
+}
 
-.footer {
-  margin: 15px 0px;
+#footer .section{
+  padding-top: 30px;
+  padding-bottom: 10;
+}
+
+#bottom-footer.section{
+  padding: 20px 0 10px 0;
 }
 
 .footer .footer-title {
   color: #FFF;
   text-transform: uppercase;
   font-size: 18px;
-  margin: 0px 0px 20px;
+  margin-bottom: 15px;
+
 }
 
 .footer-links li+li {
