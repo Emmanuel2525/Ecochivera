@@ -860,7 +860,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">cera</p>
+												<p class="product-category">category</p>
 												<h3 class="product-name"><a href="cera-3m.php">cera 3m</a></h3>
 												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -897,7 +897,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">cp</p>
+												<p class="product-category">category</p>
 												<h3 class="product-name"><a href="cp.php">cera pulidora</a></h3>
 												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -933,7 +933,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">ds</p>
+												<p class="product-category">category</p>
 												<h3 class="product-name"><a href="ds.php">ds</a></h3>
 												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -969,7 +969,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">ldt</p>
+												<p class="product-category">category</p>
 												<h3 class="product-name"><a href="ldt.php">ds</a></h3>
 												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -990,6 +990,115 @@
 											</div>
 										</div>
 										<!-- /product -->
+
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="masa-sw.php">
+												<img src="./img/limpieza/masa-sw.png" alt="">
+												</a>
+												<div class="product-label">
+													
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">category</p>
+												<h3 class="product-name"><a href="masa-sw.php">masa sw</a></h3>
+												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="mdp-1k.php">
+												<img src="./img/limpieza/mdp-1k.png" alt="">
+												</a>
+												<div class="product-label">
+													
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">category</p>
+												<h3 class="product-name"><a href="mdp-1k.php">massa de polir</a></h3>
+												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+
+
+										<!-- product -->
+										
+										<div class="product">
+											<div class="product-img">
+												<a href="sq.php">
+												<img src="./img/limpieza/sq.png" alt="">
+												</a>
+												<div class="product-label">
+													
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">category</p>
+												<h3 class="product-name"><a href="sq.php">sq</a></h3>
+												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										
+										<!-- /product -->
+										
 
 
 										
