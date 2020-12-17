@@ -1,185 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-	<head>
-		<head>
-			<meta charset="utf-8">
-			<meta http-equiv="X-UA-Compatible" content="IE=edge">
-			<meta name="viewport" content="width=device-width, initial-scale=1">
-			 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	
-			 <meta name="description" content="!!Tu mejor opcion a la hora de adquirir respuestos reciclados de vehiculos, contamos con años de experiencia y gran variedad de productos nuevos y usados!!">
-	
-			 <meta name="keywords" content="Ecochivera, Repuestos, Vehiculos, Nuevos, Usados, Lubricantes, Partes de Vehiculos, Aceesorios de Vehiculos">
-	
-			<title>Ecochivera</title>
-	
-			<link rel="icon" type="image/png" href="img/favicon.png"/>
-	
-			<!-- Google font -->
-			<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
-	
-			<!-- Bootstrap -->
-			<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
-	
-			<!-- Slick -->
-			<link type="text/css" rel="stylesheet" href="css/slick.css"/>
-			<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
-	
-			<!-- nouislider -->
-			<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
-	
-			<!-- Font Awesome Icon -->
-			<link rel="stylesheet" href="css/font-awesome.min.css">
-	
-			<!-- Custom stlylesheet -->
-			<link type="text/css" rel="stylesheet" href="css/style.css"/>
-	
-			<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-			<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-			<!--[if lt IE 9]>
-			  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-			  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-			<![endif]-->
+<?php	require('header.php');	?>
 
-    </head>
-	<body>
-		<!-- HEADER -->
-		<header>
-			<!-- TOP HEADER -->
-			 <div id="top-header">
-				<div class="container">
-					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i> 0212-227-42-92</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> ventas@ecochivera.com.ve</a></li>
-						<li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i> Calle Tacagua entre 3ra y 4 Qta. Santa Lucia, PB, Urb. Atlantida, Catia La Mar Vargas edo La Guaira</a></li>
-					</ul>
-				</div>
-			</div>
-			<!-- /TOP HEADER -->
-
-			<!-- MAIN HEADER -->
-			<div id="header">
-				<!-- container -->
-				<div class="container">
-					<!-- row -->
-					<div class="row">
-						<!-- LOGO -->
-						<div class="col-md-3">
-							<div class="header-logo">
-								<a href="#" class="logo">
-									<img src="./img/LOGO1.png" width="150" height="70" alt="">
-								</a>
-							</div>
-						</div>
-						<!-- /LOGO -->
-
-						<!-- SEARCH BAR -->
-						<div class="col-md-6">
-							
-							
-							 <div class="header-search">
-								<form>
-									<select class="input-select">
-										<option value="0">Mas</option>
-										<option value="1">01</option>
-										<option value="1">02</option>
-									</select>
-									<input class="input" placeholder="Busca tu repuesto">
-									<button class="search-btn">Buscar</button>
-								</form>
-							</div>
-
-						</div>
-						<!-- /SEARCH BAR -->
-
-						<!-- ACCOUNT -->
-
-					
-						<div class="col-md-3 clearfix">
-							<div class="header-ctn">
-								<!-- Wishlist -->
-								<div>
-									<a href="http://www.bcv.org.ve/">
-										<img src="img/logo-bcv.png" alt="" width="30"><span>BCV</span>
-										
-										
-									</a>
-								</div> 
-								
-								
-
-							
-								<!-- /Wishlist -->
-
-								
-								<div class="dropdown">
-									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true" href="#">
-										<i class="fa fa-heart-o-"></i>
-										<span>1$=1.103.443Bs</span>
-										<div class="qtyy"></div> 
-									</a>
-
-									
-									
-								<!--
-
-									<div class="cart-dropdown">
-										<div class="cart-list">
-											<div class="product-widget">
-												<div class="product-img">
-													<img src="./img/product01.png" alt="">
-												</div>
-												<div class="product-body">
-													<h3 class="product-name"><a href="#">product name goes here</a></h3>
-													<h4 class="product-price"><span class="qty">1x</span>$980.00</h4>
-												</div>
-												<button class="delete"><i class="fa fa-close"></i></button>
-											</div>
-
-											<div class="product-widget">
-												<div class="product-img">
-													<img src="./img/product02.png" alt="">
-												</div>
-												<div class="product-body">
-													<h3 class="product-name"><a href="#">product name goes here</a></h3>
-													<h4 class="product-price"><span class="qty">3x</span>$980.00</h4>
-												</div>
-												<button class="delete"><i class="fa fa-close"></i></button>
-											</div>
-										</div>
-										<div class="cart-summary">
-											<small>3 Item(s) selected</small>
-											<h5>SUBTOTAL: $2940.00</h5>
-										</div>
-										<div class="cart-btns">
-											<a href="#">View Cart</a>
-											<a href="#">Checkout  <i class="fa fa-arrow-circle-right"></i></a>
-										</div>
-									</div> -->
-								</div>
-
-							
-								
-
-								<!-- Menu Toogle 
-								<div class="menu-toggle">
-									<a href="#">
-										<i class="fa fa-bars"></i>
-										<span>Menu</span>
-									</a>
-								</div>
-								 -->
-							</div>
-						</div>
-						<!-- /ACCOUNT -->
-					</div>
-					<!-- row -->
-				</div>
-				<!-- container -->
-			</div>
-			<!-- /MAIN HEADER -->
-		</header>
-		<!-- /HEADER -->
 
 		<!-- NAVIGATION -->
 		<nav id="navigation">
@@ -197,61 +17,12 @@
 		</nav>
 		<!-- /NAVIGATION -->
 
-		<!-- SECTION -->
-		<div class="section">
-			<!-- container -->
-			<div class="container">
-				<!-- row -->
-				
-				<div class="row">
-					<!-- shop -->
-					<div class="col-md-4 col-xs-6">
-						<div class="shop">
-							<div class="shop-img">
-								<img src="./img/repuesto1.png" alt="">
-							</div>
-							<div class="shop-body">
-								<h3>Repuesto 1<br></h3>
-								<a href="#" class="cta-btn">Ver<i class="fa fa-arrow-circle-right"></i></a>
-							</div>
-						</div>
-					</div>
-					<!-- /shop -->
+		
+		
+		
 
-					<!-- shop -->
-					<div class="col-md-4 col-xs-6">
-						<div class="shop">
-							<div class="shop-img">
-								<img src="./img/repuesto2.png" alt="">
-							</div>
-							<div class="shop-body">
-								<h3>Repuesto 2<br></h3>
-								<a href="#" class="cta-btn">Ver <i class="fa fa-arrow-circle-right"></i></a>
-							</div>
-						</div>
-					</div>
-					<!-- /shop -->
 
-					<!-- shop -->
-					<div class="col-md-4 col-xs-6">
-						<div class="shop">
-							<div class="shop-img">
-								<img src="./img/repuesto3.png" alt="">
-							</div>
-							<div class="shop-body">
-								<h3>Repuesto 3<br></h3>
-								<a href="#" class="cta-btn">Ver <i class="fa fa-arrow-circle-right"></i></a>
-							</div>
-						</div>
-					</div>
-					<!-- /shop -->
-				</div>
-				<!-- /row -->
-				</div>
-			<!-- /container -->
-		</div>
-		<!-- /SECTION -->
-
+	
 		<!-- SECTION -->
 		
 		<div class="section">
@@ -267,15 +38,17 @@
 						
 						<div class="section-title">
 					
-							<h3 class="title">Nuestros productos</h3>
+							<h3 class="title">Repuestos</h3>
 						
 							<div class="section-nav">
 						
 									<ul class="section-tab-nav tab-nav">
 						
-										<li class="active"><a data-toggle="tab" href="#tab1">Repuestos y Partes</a></li>
+										<li class="active"><a data-toggle="tab" href="#tab1">Luces</a></li>
 						
-										<li><a data-toggle="tab" href="#tab2">Accesorios</a></li>
+										<li><a data-toggle="tab" href="#tab2">Guardafangos</a></li>
+
+										<li><a data-toggle="tab" href="#tab3">otros</a></li>
 								</ul>
 							</div>
 						</div>
@@ -295,112 +68,16 @@
 								<div id="tab1" class="tab-pane active">
 									<div class="products-slick" data-nav="#slick-nav1">
 										
-										<!-- product 1-->
 										
-										
+										<!-- product 1 -->
 										<div class="product">
 											<div class="product-img">
-												<a href="hv-ford.html">
-												<img src="./img/repuestos/hidrovac/hidrovac-ford-fiesta-power3.png" alt="">
-											</a>
-												<div class="product-label">
-													
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Repuestos</p>
-												<h3 class="product-name"><a href="hv-ford.html">Hidrovac Ford Fiesta Power</a></h3>
-												<h4 class="product-price">$30.00<del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')">
-												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
-												</a>
-											</div>
-										</div>
-										<!-- /product 1 -->
-
-										<!-- product 2 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="hv-mit.html">
-												<img src="./img/repuestos/hidrovac/hidrovac-mitsubishi-lancer2.0.png" alt="">  </a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Repuestos</p>
-												<h3 class="product-name"><a href="hv-mit.html">Hidrovac Mitsubishi Lancer touring 2.0</a></h3>
-												<h4 class="product-price">$45.00<del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-											<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
-											</div>
-										</div>
-										<!-- /product 2 -->
-
-										<!-- product 3 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="rv-ford.html">
-												<img src="./img/repuestos/rv/retrovisor-a-ford-fiesta-power2.png" alt="">  </a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Repuestos</p>
-												<h3 class="product-name"><a href="rv-ford.html">Retrovisores der e izq Ford Fiesta Power 2004 </a></h3>
-												<h4 class="product-price">$30.00 <span>(c/u)</span><del class="product-old-price"></del></h4>
-												<div class="product-rating">
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
-											</div>
-										</div>
-										<!-- /product 3 -->
-
-										<!-- product 4 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="f-d-forunner.html">
+												<a href="f-d-forunner.php">
 												<img src="./img/repuestos/luces/faro/faro-d-toyota-forunner.png" alt="">  </a>
 											</div>
 											<div class="product-body">
-												<p class="product-category">Repuestos</p>
-												<h3 class="product-name"><a href="f-d-forunner.html">Faro derecho Toyota 4runner</a></h3>
+												<p class="product-category">Faro</p>
+												<h3 class="product-name"><a href="f-d-forunner.php">Faro derecho Toyota 4runner</a></h3>
 												<h4 class="product-price">$100.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -416,108 +93,32 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')">
+												<a href="javascript:ventanaSecundaria('contact.php')">
 												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
 												</a>
-											</div>
-										</div>
-										<!-- /product 4 -->
-
-										<!-- product 5 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gdd-picanto.html">
-												<img src="./img/repuestos/gf/gdd-kia-picanto.png" alt="">  </a>
-												<div class="product-label">
-													<span class="new">Nuevo</span>
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Repuestos</p>
-												<h3 class="product-name"><a href="gdd-picanto.html">Guardafango delantero Derecho KIA Picanto</a></h3>
-												<h4 class="product-price">$45.00<del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')">
-												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
-												</a>
-											</div>
-										</div>
-										<!-- /product 5 -->
-									</div>
-									
-									<div id="slick-nav1" class="products-slick-nav"></div>
-								</div>
-								
-								<!--/Accesorios-->
-								<div id="tab2" class="tab-pane">
-									<div class="products-slick" data-nav="#slick-nav2">
-										<!-- product 1 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="product.html">
-												<img src="./img/prueba02.png" alt="">  </a>
-												<div class="product-label">
-													<span class="sale">%descuentos</span>
-													<span class="new">Nuevo</span>
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Aceesorios 1</p>
-												<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')">
-												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
-											</a>
 											</div>
 										</div>
 										<!-- /product 1 -->
 
+
+
 										<!-- product 2 -->
 										<div class="product">
 											<div class="product-img">
-												<a href="product.html">
-												<img src="./img/prueba02.png" alt="">  </a>
-												<div class="product-label">
-													<span class="new">Nuevo</span>
-												</div>
+												<a href="f-a-captiwa.php">
+												<img src="./img/repuestos/luces/stop/stop-a-chevrolet-captiwa.png" alt=""> 
+											</a>
 											</div>
 											<div class="product-body">
-												<p class="product-category">Aceesorios 2</p>
-												<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-												<h4 class="product-price">$precio nuevo <del class="product-old-price">$precio viejo</del></h4>
+												<p class="product-category">Stops</p>
+												<h3 class="product-name"><a href="f-a-captiwa.php">Stops izq y dere chevrolet captiwa</a></h3>
+												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
-													<i class="fa fa-star-o"></i>
+													<i class="fa fa-star"></i>
 												</div>
 												<div class="product-btns">
 													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
@@ -526,27 +127,33 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')">
+												<a href="javascript:ventanaSecundaria('contact.php')">
 												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
 												</a>
 											</div>
 										</div>
 										<!-- /product 2 -->
 
+
+
+
 										<!-- product 3 -->
 										<div class="product">
 											<div class="product-img">
-												<a href="product.html">
-												<img src="./img/prueba01.png" alt="">  </a>
-												<div class="product-label">
-													<span class="sale">-Descuento%</span>
-												</div>
+												<a href="f-i-lancer.php">
+												<img src="./img/repuestos/luces/faro/faro-i-mitsubishi-lancer.png" alt=""> 
+											</a>
 											</div>
 											<div class="product-body">
-												<p class="product-category">Aceesorios 3</p>
-												<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-												<h4 class="product-price">$precio<del class="product-old-price">$precio viejo</del></h4>
+												<p class="product-category">faro</p>
+												<h3 class="product-name"><a href="f-i-lancer.php">faro izquiedo mitsubishi lancer</a></h3>
+												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
 												</div>
 												<div class="product-btns">
 													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
@@ -555,366 +162,75 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')">
+												<a href="javascript:ventanaSecundaria('contact.php')">
 												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
+												</a>
+											</div>
+										</div>
+										<!-- /product 3 -->
+
+
+
+										<!-- product 4 -->
+										<div class="product">
+											<div class="product-img">
+												<a href="s-i-machito.php">
+												<img src="./img/repuestos/luces/stop/stop-i-toyota-machito.png" alt=""> 
 											</a>
+											</div>
+											<div class="product-body">
+												<p class="product-category">stop</p>
+												<h3 class="product-name"><a href="s-i-machito.php">stop izquierdo toyota machito</a></h3>
+												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')">
+												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
+												</a>
 											</div>
 										</div>
 										<!-- /product 4 -->
 
-										<!-- product 5 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="product.html">
-												<img src="./img/product04.pngg" alt=""> </a>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Aceesorios 5</p>
-												<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product 5 -->
-
-										<!-- product 6 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="product.html">
-												<img src="./img/product05.pngg" alt="">  </a>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Aceesorios 6</p>
-												<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-												<h4 class="product-price">$preciosss <del class="product-old-price">$precio viejo</del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product 6 -->
-									</div>
-									<div id="slick-nav2" class="products-slick-nav"></div>
-							</div>	
-						</div>
-					</div>
-				</div>
-						<!-- Products tab & slick -->
-				</div>
-					<!-- /row -->
-				</div>
-				<!-- /container -->
-			</div>
-			<!-- /SECTION -->
-
-		
-		<!-- SECTION -->
-		<div class="section">
-			<!-- container -->
-			<div class="container">
-				<!-- row -->
-				<div class="row">
-
-					<!-- section title -->
-					<div class="col-md-12">
-						<div class="section-title">
-							<h3 class="title">categorias</h3>
-							<div class="section-nav">
-								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab3">Aceites</a></li>
-									<li><a data-toggle="tab" href="#tab4">Guardafangos</a></li>
-									<li><a data-toggle="tab" href="#tab5">limpieza</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<!-- /section title -->
-
-					<!-- Products tab & slick -->
-					<div class="col-md-12">
-						
-						<div class="row">
-							<div class="products-tabs">
-								
-								<!-- tab -->
-								<div id="tab3" class="tab-pane fade in active">
-									<div class="products-slick" data-nav="#slick-nav3">
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-ape.html">
-												<img src="./img/lubricantes/gonher-ape.png" alt="">
-												</a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-ape.html">aceite mineral para cajas sae 80w-90 api-gl-5</a></h3>
-												<h4 class="product-price">$5.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
 
 
 
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-lpf.html">
-												<img src="./img/lubricantes/gonher-lpf.png" alt="">
-												</a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-lpf.html">liga de frenos</a></h3>
-												<h4 class="product-price">$3.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
-
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-mg.html">
-												<img src="./img/lubricantes/gonher-mg.png" alt="">
-												</a>
-												<div class="product-label">
-													<span class="new">Nuevo</span>
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-mg.html">aceite mineral sae 15w40 api-sl</a></h3>
-												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
-
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-mu.html">
-												<img src="./img/lubricantes/gonher-mu.png" alt="">
-												</a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-mu.html">grasa multiproposito</a></h3>
-												<h4 class="product-price">$3.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
-
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-ss.html">
-												<img src="./img/lubricantes/gonher-ss.png" alt="">
-												</a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-ss.html">aceite semi sintético sae 15w40 api-sn</a></h3>
-												<h4 class="product-price">$5.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
-
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-apt.html">
-												<img src="./img/lubricantes/gonher-apt.png" alt="">
-												</a>
-												<div class="product-label">
-												<span class="new">Nuevo</span>
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-apt.html">aceite sintético para cajas atf-dexron vi</a></h3>
-												<h4 class="product-price">$7.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
-
-										<!-- product -->
-										<div class="product">
-											<div class="product-img">
-												<a href="gonher-s.html">
-												<img src="./img/lubricantes/gonher-s.png" alt="">
-												</a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-s.html">aceite sintético sae 5w-20 api-sn</a></h3>
-												<h4 class="product-price">$6.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
-											</div>
-										</div>
-										<!-- /product -->
+										
 
 										
 
 										
 									</div>
-									<div id="slick-nav3" class="products-slick-nav"></div>
+									
+									<div id="slick-nav1" class="products-slick-nav"></div>
 								</div>
-								<!-- /tab -->
 
 
 
-								<div id="tab4" class="tab-pane">
-									<div class="products-slick" data-nav="#slick-nav4">
+								
+
+
+								
+								<!--/Accesorios-->
+								<div id="tab2" class="tab-pane">
+								
+									<div class="products-slick" data-nav="#slick-nav2">
 										
 										<!-- product -->
 										<div class="product">
 											<div class="product-img">
-												<a href="cherokee-kk.html">
+												<a href="cherokee-kk.php">
 												<img src="./img/repuestos/gf/gdd-cherokee-kk.png" alt="">
 												</a>
 												<div class="product-label">
@@ -924,7 +240,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
-												<h3 class="product-name"><a href="cherokee-kk.html">guardafango delantero derecho cherokee kk</a></h3>
+												<h3 class="product-name"><a href="cherokee-kk.php">guardafango delantero derecho cherokee kk</a></h3>
 												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -940,7 +256,7 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
 											</div>
 										</div>
 										<!-- /product -->
@@ -948,7 +264,7 @@
 										<!-- product -->
 										<div class="product">
 											<div class="product-img">
-											<a href="racer.html">
+											<a href="racer.php">
 												<img src="./img/repuestos/gf/gdd-daewoo-racer.png" alt="">
 											</a>
 												<div class="product-label">
@@ -957,7 +273,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
-												<h3 class="product-name"><a href="racer.html">guardafango delantero derecho daewoo racer</a></h3>
+												<h3 class="product-name"><a href="racer.php">guardafango delantero derecho daewoo racer</a></h3>
 												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -973,7 +289,7 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
 											</div>
 										</div>
 										<!-- /product -->
@@ -981,16 +297,16 @@
 										<!-- product -->
 										<div class="product">
 											<div class="product-img">
-												<a href="gdd-picanto.html">
+												<a href="gdd-picanto.php">
 												<img src="./img/repuestos/gf/gdd-kia-picanto.png" alt="">
 											</a>
 												<div class="product-label">
-													
+												<span class="new">Nuevo</span>
 												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
-												<h3 class="product-name"><a href="gdd-picanto.html">guardafango delantero derecho kia picanto</a></h3>
+												<h3 class="product-name"><a href="gdd-picanto.php">guardafango delantero derecho kia picanto</a></h3>
 												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -1006,7 +322,7 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
 											</div>
 										</div>
 										<!-- /product -->
@@ -1014,7 +330,7 @@
 										<!-- product -->
 										<div class="product">
 											<div class="product-img">
-												<a href="gdi-elantra.html">
+												<a href="gdi-elantra.php">
 												<img src="./img/repuestos/gf/gdi-hyundai-elantra.png" alt="">
 											</a>
 											</div>
@@ -1036,14 +352,541 @@
 												</div>
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
 											</div>
 										</div>
 										<!-- /product -->
 
 						
 									</div>
+									<div id="slick-nav2" class="products-slick-nav"></div>
+								</div>
+
+<!-----------------------------------------------------------------------------------------------------------otros----------------------------------------------------->
+
+								<div id="tab3" class="tab-pane">
+									<div class="products-slick" data-nav="#slick-nav3">
+										
+										<!-- product 1-->
+										
+										
+										<div class="product">
+											<div class="product-img">
+												<a href="hv-ford.php">
+												<img src="./img/repuestos/hidrovac/hidrovac-ford-fiesta-power3.png" alt="">
+											</a>
+												<div class="product-label">
+													
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Repuestos</p>
+												<h3 class="product-name"><a href="hv-ford.php">Hidrovac Ford Fiesta Power</a></h3>
+												<h4 class="product-price">$30.00<del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')">
+												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
+												</a>
+											</div>
+										</div>
+										<!-- /product 1 -->
+
+										<!-- product 2 -->
+										<div class="product">
+											<div class="product-img">
+												<a href="hv-mit.php">
+												<img src="./img/repuestos/hidrovac/hidrovac-mitsubishi-lancer2.0.png" alt="">  </a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Repuestos</p>
+												<h3 class="product-name"><a href="hv-mit.php">Hidrovac Mitsubishi Lancer touring 2.0</a></h3>
+												<h4 class="product-price">$45.00<del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+											<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
+											</div>
+										</div>
+										<!-- /product 2 -->
+
+
+
+
+										<!-- product 3 -->
+										<div class="product">
+											<div class="product-img">
+												<a href="ab-cp-lancer.php">
+												<img src="./img/repuestos/airbag/airbag-cp-mitsubishi-lancer.png" alt="">  </a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">airbag</p>
+												<h3 class="product-name"><a href="ab-cp-lancer.php">airbag copiloto mitsubishi lancer</a></h3>
+												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
+											</div>
+										</div>
+										<!-- /product 3 -->
+
+
+										
+										
+										<!-- product 3 -->
+										<div class="product">
+											<div class="product-img">
+												<a href="ab-cp-tb-lancer.php">
+												<img src="./img/repuestos/airbag/airbag-tablero-cp-lancer.png" alt="">  </a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">airbag</p>
+												<h3 class="product-name"><a href="ab-cp-tb-lancer.php">airbag tablero copiloto mitsubishi lancer</a></h3>
+												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
+											</div>
+										</div>
+										<!-- /product 3 -->
+
+
+
+
+
+										<!-- product 4 -->
+										<div class="product">
+											<div class="product-img">
+												<a href="rv-ford.php">
+												<img src="./img/repuestos/rv/retrovisor-a-ford-fiesta-power2.png" alt="">  </a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">retrovisores</p>
+												<h3 class="product-name"><a href="rv-ford.php">Retrovisores der e izq Ford Fiesta Power 2004 </a></h3>
+												<h4 class="product-price">$30.00 <span>(c/u)</span><del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
+											</div>
+										</div>
+										<!-- /product 4 -->
+									</div>
+									
+									<div id="slick-nav3" class="products-slick-nav"></div>
+								</div>
+
+
+
+
+									
+							</div>	
+						</div>
+					</div>
+
+
+
+
+
+
+
+				</div>
+						<!-- Products tab & slick -->
+				</div>
+					<!-- /row -->
+				</div>
+				<!-- /container -->
+			</div>
+			<!-- /SECTION -->
+
+		
+		<!-- SECTION -->
+		<div class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+
+					<!-- section title -->
+					<div class="col-md-12">
+						<div class="section-title">
+							<h3 class="title">Productos</h3>
+							<div class="section-nav">
+								<ul class="section-tab-nav tab-nav">
+									<li class="active"><a data-toggle="tab" href="#tab4">Lubricantes</a></li>
+									
+									<li><a data-toggle="tab" href="#tab5">limpieza</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<!-- /section title -->
+
+					<!-- Products tab & slick -->
+					<div class="col-md-12">
+						
+						<div class="row">
+							<div class="products-tabs">
+								
+								<!-- tab -->
+								<div id="tab4" class="tab-pane fade in active">
+									<div class="products-slick" data-nav="#slick-nav4">
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-ape.php">
+												<img src="./img/lubricantes/gonher-ape.png" alt="">
+												</a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-ape.php">aceite mineral para cajas sae 80w-90 api-gl-5</a></h3>
+												<h4 class="product-price">$5.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-lpf.php">
+												<img src="./img/lubricantes/gonher-lpf.png" alt="">
+												</a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-lpf.php">liga de frenos</a></h3>
+												<h4 class="product-price">$3.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-mg.php">
+												<img src="./img/lubricantes/gonher-mg.png" alt="">
+												</a>
+												<div class="product-label">
+													<span class="new">Nuevo</span>
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 15w40 api-sl</a></h3>
+												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-mu.php">
+												<img src="./img/lubricantes/gonher-mu.png" alt="">
+												</a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-mu.php">grasa multiproposito</a></h3>
+												<h4 class="product-price">$3.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-ss.php">
+												<img src="./img/lubricantes/gonher-ss.png" alt="">
+												</a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-ss.php">aceite semi sintético sae 15w40 api-sn</a></h3>
+												<h4 class="product-price">$5.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-apt.php">
+												<img src="./img/lubricantes/gonher-apt.png" alt="">
+												</a>
+												<div class="product-label">
+												<span class="new">Nuevo</span>
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-apt.php">aceite sintético para cajas atf-dexron vi</a></h3>
+												<h4 class="product-price">$7.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="gonher-s.php">
+												<img src="./img/lubricantes/gonher-s.png" alt="">
+												</a>
+												<div class="product-label">
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Lubricantes</p>
+												<h3 class="product-name"><a href="gonher-s.php">aceite sintético sae 5w-20 api-sn</a></h3>
+												<h4 class="product-price">$6.00 <del class="product-old-price"></del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										
+
+										
+									</div>
 									<div id="slick-nav4" class="products-slick-nav"></div>
+								</div>
+								<!-- /tab -->
+
+
+
+								<div id="tab5" class="tab-pane">
+									<div class="products-slick" data-nav="#slick-nav5">
+										
+										<!-- product -->
+										<div class="product">
+											<div class="product-img">
+												<a href="cherokee-kk.php">
+												<img src="./img/repuestos/gf/gdd-cherokee-kk.png" alt="">
+												</a>
+												<div class="product-label">
+													
+													
+												</div>
+											</div>
+											<div class="product-body">
+												<p class="product-category">Guardafangos</p>
+												<h3 class="product-name"><a href="cherokee-kk.php">guardafango delantero derecho cherokee kk</a></h3>
+												<h4 class="product-price">$00.0 <del class="product-old-price">$precio viejo</del></h4>
+												<div class="product-rating">
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+													<i class="fa fa-star"></i>
+												</div>
+												<div class="product-btns">
+													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
+													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
+													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
+												</div>
+											</div>
+											<div class="add-to-cart">
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+											</div>
+										</div>
+										<!-- /product -->
+
+										
+
+						
+									</div>
+									<div id="slick-nav5" class="products-slick-nav"></div>
 								</div>
 
 
@@ -1365,179 +1208,20 @@
 		
 
 
-		<!-- HOT DEAL SECTION -->
-		<div id="hot-deal" class="section">
-			<!-- container -->
-			<div class="container">
-				<!-- row -->
-				<div class="row">
-					<div class="col-md-12">
-						<div class="hot-deal">
-							<ul class="hot-deal-countdown">
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>N</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-									
-									</div>
-								</li>
-							</ul>
-							<h2 class="text-uppercase">Oferta de la semana</h2>
-							<p>50% de descuento</p>
-							<a class="primary-btn cta-btn" href="#">Comprar ya!</a>
-						</div>
-					</div>
-				</div>
-				<!-- /row -->
-			</div>
-			<!-- /container -->
-		</div>
-		<!-- /HOT DEAL SECTION -->
-
-
-
-		
-		<!-- NEWSLETTER -->
-		<div id="newsletter" class="section" style="display: none;">
-			<!-- container -->
-			<div class="container">
-				<!-- row -->
-				<div class="row">
-					<div class="col-md-12">
-						<div class="newsletter">
-							<p>Sign Up for the <strong>NEWSLETTER</strong></p>
-							<form>
-								<input class="input" type="email" placeholder="Enter Your Email">
-								<button class="newsletter-btn"><i class="fa fa-envelope"></i> Subscribe</button>
-							</form>
-							<ul class="newsletter-follow">
-								<li>
-									<a href="#"><i class="fa fa-facebook"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-instagram"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-pinterest"></i></a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<!-- /row -->
-			</div>
-			<!-- /container -->
-		</div>
-		<!-- /NEWSLETTER -->
-
-		<!-- FOOTER -->
-		<footer id="footer">
-			<!-- top footer -->
-			<div class="section">
-				<!-- container -->
-				<div class="container">
-					<!-- row -->
-					<div class="row">
-						
-
-						<div class="col-md-4 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">Correo</h3>
-								<ul class="footer-links">
-									<li><a href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>ventas@ecochivera.com.ve</a></li>
-									<li><a href="mailto:administracion.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>administracion@ecochivera.com.ve</a></li>
-
-								</ul>
-							</div>
-						</div>
-
-						<div class="col-md-4 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">Ubicacion</h3>
-								<p></p>
-								<ul class="footer-links">
-									<li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i> Calle Tacagua entre 3ra y 4 Qta. Santa Lucia, PB, Urb. Atlantida, Catia La Mar edo La Guaira</a></li>
-									
-									
-								</ul>
-							</div>
-						</div>
-
-
-						<div class="clearfix visible-xs"></div>
-
-						<div class="col-md-4 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">Telefono</h3>
-								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-phone"></i>0212-227-42-924</a> <br> <a href="#"><i class="fa fa-phone"></i>0424-106-47-47</a></li>
-								</ul>
-							</div>
-						</div>
-
-						
-
-						
-					</div>
-					<!-- /row -->
-				</div>
-				<!-- /container -->
-			</div>
-			<!-- /top footer -->
-
-			<!-- bottom footer -->
-			<div id="bottom-footer" class="section">
-				
-							
-							<span class="copyright">
-								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos son exlusivos de Ecochivera, C.A.
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							</span>
-			</div>
-			<!-- /bottom footer -->
-		</footer>
-		<!-- /FOOTER -->
-
-		<!-- jQuery Plugins -->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/slick.min.js"></script>
-		<script src="js/nouislider.min.js"></script>
-		<script src="js/jquery.zoom.min.js"></script>
-		<script src="js/main.js"></script>
-		<script src="js/ventana.js"></script>
 
 
 
 
 		
+
+
+
+
+		<?php
+			require('footer.php');
+		
+		?>
+	
 
 	</body>
 </html>
