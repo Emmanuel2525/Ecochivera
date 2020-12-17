@@ -75,7 +75,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #D10024;
+  color: #65a722;
   text-decoration: none;
   outline: none;
 }
@@ -1129,12 +1129,12 @@ textarea.input {
 }
 
 .product-widget .product-body .product-name>a:hover, .product-widget .product-body .product-name>a:focus {
-  color: #D10024;
+  color: #65a722;
 }
 
 .product-widget .product-body .product-price {
   font-size: 14px;
-  color: #D10024;
+  color: #65a722;
 }
 
 .product-widget .product-body .product-price .product-old-price {
@@ -1661,7 +1661,7 @@ textarea.input {
 }
 
 #product-tab .tab-nav li.active a {
-  color: #D10024;
+  color: #65a722;
 }
 
 #product-tab .tab-nav li a:after {
@@ -1669,7 +1669,7 @@ textarea.input {
   display: block;
   width: 0%;
   height: 2px;
-  background-color: #D10024;
+  background-color: #65a722;
   -webkit-transition: 0.2s all;
   transition: 0.2s all;
 }
@@ -1717,7 +1717,7 @@ textarea.input {
 }
 
 .rating .rating-progress>div {
-  background-color: #D10024;
+  background-color: #65a722;
   position: absolute;
   left: 0;
   top: 0;
@@ -1771,7 +1771,7 @@ textarea.input {
 }
 
 .reviews .review-heading .review-rating>i.fa-star {
-  color: #D10024;
+  color:#65a722;
 }
 
 .reviews-pagination {
@@ -1792,12 +1792,12 @@ textarea.input {
 
 .reviews-pagination li:hover {
   background-color: #E4E7ED;
-  color: #D10024;
+  color: #65a722;
 }
 
 .reviews-pagination li.active {
-  background-color: #D10024;
-  border-color: #D10024;
+  background-color: #65a722;
+  border-color: #65a722;
   color: #FFF;
   cursor: default;
 }
@@ -1841,12 +1841,12 @@ textarea.input {
 }
 
 .review-form .input-rating .stars>label:hover:before, .review-form .input-rating .stars>label:hover~label:before {
-  color: #D10024;
+  color: #65a722;
 }
 
 .review-form .input-rating .stars>input:checked label:before, .review-form .input-rating .stars>input:checked~label:before {
   content: "\f005";
-  color: #D10024;
+  color: #65a722;
 }
 
 /*=========================================================
@@ -1912,7 +1912,7 @@ textarea.input {
 
 .order-summary .order-col .order-total {
   font-size: 24px;
-  color: #D10024;
+  color: #65a722;
 }
 
 .order-details .payment-method {
@@ -1930,7 +1930,7 @@ textarea.input {
 
 #newsletter.section {
   border-top: 2px solid #E4E7ED;
-  border-bottom: 3px solid #D10024;
+  border-bottom: 3px solid #65a722;
   margin-top: 30px;
 }
 
@@ -1972,7 +1972,7 @@ textarea.input {
   width: 160px;
   height: 40px;
   font-weight: 700;
-  background: #D10024;
+  background:#65a722;
   color: #FFF;
   border: none;
   border-radius: 0px 40px 40px 0px;
@@ -2006,7 +2006,7 @@ textarea.input {
 
 .newsletter .newsletter-follow li a:hover, .newsletter .newsletter-follow li a:focus {
   background-color: #E4E7ED;
-  color: #D10024;
+  color: #65a722;
 }
 
 /*=========================================================
@@ -2058,13 +2058,13 @@ textarea.input {
 
 .footer-links li i {
   margin-right: 15px;
-  color: #D10024;
+  color: #65a722;
   width: 14px;
   text-align: center;
 }
 
 .footer-links li a:hover {
-  color: #D10024;
+  color: #65a722;
 }
 
 
@@ -2110,8 +2110,8 @@ textarea.input {
 }
 
 .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
-  background-color: #D10024;
-  border-color: #D10024;
+  background-color: #65a722;
+  border-color: #65a722;
 }
 
 .slick-prev:before, .slick-next:before {
@@ -2156,7 +2156,7 @@ textarea.input {
 }
 
 .slick-dots li.slick-active button:before {
-  background-color: #D10024;
+  background-color: #65a722;
 }
 
 .custom-dots .slick-dots {
