@@ -82,9 +82,8 @@
 							 <div class="header-search">
 								<form>
 									<select class="input-select">
-										<option value="0">Mas</option>
-										<option value="1">01</option>
-										<option value="1">02</option>
+										
+										
 									</select>
 									<input class="input" placeholder="Busca tu repuesto">
 									<button class="search-btn">Buscar</button>
