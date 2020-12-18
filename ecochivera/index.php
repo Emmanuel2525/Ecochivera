@@ -551,7 +551,7 @@
 												
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
 											</div>
 										</div>
 										<!-- /product -->
@@ -599,7 +599,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 20w50 api-sl</a></h3>
+												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 20w50 api-sn</a></h3>
 												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -1011,8 +1011,8 @@
 							
 							<h2 class="text-uppercase">GRACIAS POR TU VISITA</h2>
 							<p>¡Vuelve pronto!</p>
-							<a class="primary-btn cta-btn" href="#"><i class="fa fa-instagram"></i></a>
-							<a class="primary-btn cta-btn" href="#"><i class="fa fa-envelope-o"></i></a>
+							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a>
+							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i></a>
 						</div>
 					</div>
 				</div>

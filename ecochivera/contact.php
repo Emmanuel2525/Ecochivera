@@ -14,6 +14,10 @@
 
 		<link rel="icon" type="image/png" href="img/favicon.png"/>
 
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+
 	
 
 		<!-- Custom stlylesheet -->
@@ -36,13 +40,20 @@
 
 	<div class="stack">
 
+
+	
 	<div class="contenedor">
 
+			
+
 			<nav>
+
+			<h2>Haz tu pedido a través de estos medios:</h2>
 				 <ul>
-					 <li><a href="#">ventas</a></li>
-					 <li><a href="#">vfdasfasf</a></li>
-					 <li><a href="#">dadadawd</a></li>
+					 <li><a href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i> CORREO</a></li>
+					 <li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-whatsapp"></i>0424-106-47-47</a></li>
+					 <li><a href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i> INSTAGRAM</a></li>
+					 <li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i> UBICACION</a></li>
 					</ul>
 
 			</nav>

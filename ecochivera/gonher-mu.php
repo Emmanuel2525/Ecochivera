@@ -59,7 +59,7 @@
 								<h3 class="product-price">$3.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Es un producto que combina las propiedades de dos o más grasas especializadas y que se puede usar en más de una aplicación. Por ejemplo, las grasas de litio se pueden aplicar tanto en el chasis como en los rodamientos o rulemanes de ruedas de vehículos de transporte.</p>
 
 							<br>
 
