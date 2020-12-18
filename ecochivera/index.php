@@ -791,8 +791,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="cp.php">cera pulidora</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="cp.php">cera automotriz champion</a></h3>
+												<h4 class="product-price">$6.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -823,8 +823,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ds.php">ds</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="ds.php">cera automotriz maxi rubber</a></h3>
+												<h4 class="product-price">$7.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -855,7 +855,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ldt.php">LDT</a></h3>
+												<h3 class="product-name"><a href="ldt.php">Limpiadera de tapicerías velour sq</a></h3>
 												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>

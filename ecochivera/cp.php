@@ -12,11 +12,11 @@
 					<div class="col-md-5 col-md-push-2">
 						<div id="product-main-img">
 							<div class="product-preview">
-								<img src="./img/limpieza/ds.png" alt="">
+								<img src="./img/limpieza/cp.png" alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/limpieza/ds2.png" alt="">
+								<img src="./img/limpieza/cp2.png" alt="">
 							</div>
 
 						</div>
@@ -27,11 +27,11 @@
 					<div class="col-md-2  col-md-pull-5">
 						<div id="product-imgs">
 						<div class="product-preview">
-								<img src="./img/limpieza/ds.png" alt="">
+								<img src="./img/limpieza/cp.png" alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/limpieza/ds2.png" alt="">
+								<img src="./img/limpieza/cp2.png" alt="">
 							</div>
 							
 						</div>
@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">cera automotriz maxi rubber</h2>
+							<h2 class="product-name">cera automotriz champion</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -53,10 +53,11 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$10.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$6.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>El refinado y el lustre están indicados para eliminar marcas de boinas y micro arañazos en cualquier tipo de pintura, ya que proporcionan brillo intenso y durabilidad del color.Cuando se usa con la boina de espuma mixta de doble cara, el producto realiza una doble función, refinando y puliendo con alto brillo en un solo paso.</p>
+							<p>Cera Pulidora Champion 946ML
+							Ideal para quitar la pintura quemada.</p>
 
 							<br>
 
