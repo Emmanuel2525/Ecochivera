@@ -59,7 +59,7 @@
 								<h3 class="product-price">$7.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Lubricante formulado con aceites básicos 100% sintéticos altamente refinados y aditivos de avanzada tecnología como Nanotek® para cumplir con las altas exigencias de funcionamiento de las transmisiones modernas, donde se específica el uso de un fluido que cumpla los requerimientos de la especificación Dexron® VI.</p>
 
 							<br>
 
