@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">massa de polir</h2>
+							<h2 class="product-name">MASA PARA PULIR A BASE DE AGUA MAXI RUBBER 1KG</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -53,10 +53,12 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$00.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$10.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>La masa de pulir 2 a base agua puede utilizarse para el pulido automotor sobre cualquier tipo de tinta y barniz, dejando la superficie lisa y brillante. <br><br>
+
+							Indicada para eliminar arañazos de lijado con grano 1200 o superior y también el desgaste sufrido por pinturas y/o repintados antiguos debido a exposición a agentes atmosféricos, además de efectos “piel de naranja” moderados, escurrimientos leves y pequeñas imperfecciones, sin dañar la pintura, preparando la superficie para el pulido final, garantizando un acabamiento con brillo intenso.</p>
 
 							<br>
 

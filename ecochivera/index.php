@@ -594,7 +594,7 @@
 												<img src="./img/lubricantes/gonher-mg.png" alt="">
 												</a>
 												<div class="product-label">
-													<span class="new">Nuevo</span>
+													
 												</div>
 											</div>
 											<div class="product-body">
@@ -855,7 +855,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ldt.php">ds</a></h3>
+												<h3 class="product-name"><a href="ldt.php">LDT</a></h3>
 												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -917,8 +917,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="mdp-1k.php">massa de polir</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="mdp-1k.php">MASA PARA PULIR A BASE DE AGUA MAXI RUBBER 1KG</a></h3>
+												<h4 class="product-price">$10.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
