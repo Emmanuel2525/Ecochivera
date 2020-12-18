@@ -855,8 +855,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ldt.php">Limpiadera de tapicerías velour sq</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="ldt.php">Limpiador de tapicerías velour sq</a></h3>
+												<h4 class="product-price">$3.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
