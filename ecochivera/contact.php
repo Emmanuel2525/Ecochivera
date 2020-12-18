@@ -6,9 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		 <meta name="description" content="!!Tu mejor opcion a la hora de adquirir respuestos reciclados de vehiculos, contamos con años de experiencia y gran variedad de productos nuevos y usados!!">
+		 <meta name="description" content="!!Tu mejor opcion a la hora de adquirir respuestos reciclados de vehiclios, contamos con años de experiencia y gran variedad de productos nuevos y usados!!">
 
-		 <meta name="keywords" content="Ecochivera, Repuestos, Vehiculos, Nuevos, Usados, Lubricantes, Partes de Vehiculos, Aceesorios de Vehiculos">
+		 <meta name="keywords" content="Ecochivera, Repuestos, Vehiclios, Nuevos, Usados, Lubricantes, Partes de Vehiclios, Aceesorios de Vehiclios">
 
 		<title>Ecochivera</title>
 
@@ -31,7 +31,7 @@
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 
 		<!-- Custom stlylesheet -->
-		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
 		<link type="text/css" rel="stylesheet" href="css/stylec.css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -43,64 +43,23 @@
 
 </head>
 	<body>
-		<!-- HEADER -->
-		<header>
-
-
-			<!-- MAIN HEADER -->
-			<div id="header">
-				<!-- container -->
-				<div class="container">
-					<!-- row -->
-					<div class="row">
-						<!-- LOGO -->
-						<div class="col-md-3">
-							<div class="header-logo">
-								<a href="#" class="logo">
-									<img src="./img/LOGO1.png" width="150" height="70" alt="">
-								</a>
-							</div>
-						</div>							
-					</div>
-					<!-- row -->
-				</div>
-				<!-- container -->
-			</div>
-			
-
-		</header>
-
-
-		<div class="contacto">
-			
-		<div class="contenedor">
-
-
-				<div class="div-list">
-				<ul class="lista">
-					
-					<li>
-					<a href="mailto:ventas@ecochivera.com.ve"><i class="fa fa-envelope-o"></i>Email</a>
-					</li>
-
-					<li>
-					<a href="#"><i class="fa fa-whatsapp"></i>Whatsapp</a>
-					</li>
-
-					<li>
-					<a href="#"><i class="fa fa-map-marker"></i>Ubicacion</a>
-					</li>
-				</ul>
-
-				</div>
-		</div>
-
-
-		</div>
+	
 
 		
 
-	
+			<div class="menu-boton">
+
+			<div class="wrap">
+				<nav>
+					<ul>
+					<li><a href="">Whatssap</a></li>
+					<li><a href="">face</a></li>
+					<li><a href="">eeeee</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			</div>
 
 
 
