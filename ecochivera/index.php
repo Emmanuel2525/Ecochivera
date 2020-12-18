@@ -749,7 +749,7 @@
 												<img src="./img/lubricantes/gonher-apt.png" alt="">
 												</a>
 												<div class="product-label">
-												<span class="new">Nuevo</span>
+												
 												</div>
 											</div>
 											<div class="product-body">
