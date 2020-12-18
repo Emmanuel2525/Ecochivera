@@ -1010,6 +1010,7 @@
 						<div class="hot-deal">
 							
 							<h2 class="text-uppercase">GRACIAS POR TU VISITA</h2>
+							
 							<p>¡Vuelve pronto!</p>
 							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a>
 							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i></a>

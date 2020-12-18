@@ -100,7 +100,7 @@
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="http://www.bcv.org.ve/">
+									<a href="http://www.bcv.org.ve/" target="_blank">
 										<img src="img/logo-bcv.png" alt="" width="30"><span>BCV</span>
 										
 										
