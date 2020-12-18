@@ -758,8 +758,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="cera-3m.php">cera 3m</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="cera-3m.php">cera rapida 3m</a></h3>
+												<h4 class="product-price">$10.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -823,7 +823,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ds.php">cera automotriz maxi rubber</a></h3>
+												<h3 class="product-name"><a href="ds.php">cera automotiva maxi rubber</a></h3>
 												<h4 class="product-price">$7.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -950,8 +950,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="sq.php">sq</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="sq.php">formula mecánica penetrante 70-6 sq</a></h3>
+												<h4 class="product-price">$3.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
