@@ -59,7 +59,7 @@
 							
 							<span class="copyright">
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos son exlusivos de Ecochivera, C.A.
+								Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos son exclusivos de Ecochivera, C.A.
 							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</span>
 			</div>
