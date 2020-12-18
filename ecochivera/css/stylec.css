@@ -4,31 +4,42 @@
 }
 
 
-ul{
-    list-style: none;
-}
+.section{
+    background:yellow;
 
-a{
-    text-decoration: none;
-    background: chartreuse;
-    padding: 20px;
-    display: flex;
-    width: 200px;
-    
-    
 
 }
 
-ul li {
-    text-align: center;
-    margin-bottom: 10px ;
-    
+
+.stack{
+    background:blue;
+    margin:0 auto;
+    width: 80%;
+
 }
 
 
-
-.menu-boton{
+.contenedor{
+    background:red;
+    width: 300px;
     margin: 0 auto;
-    width: 25%;
 }
 
+.contenedor nav ul{
+    display: block;
+    list-style:none;
+}
+
+.contenedor nav ul li{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+
+.contenedor nav ul li a{
+    text-decoration:none; 
+    color: #fff;
+    background: #;
+
+
+}

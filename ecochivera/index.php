@@ -599,7 +599,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 15w40 api-sl</a></h3>
+												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 20w50 api-sl</a></h3>
 												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -757,7 +757,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">cera</p>
 												<h3 class="product-name"><a href="cera-3m.php">cera rapida 3m</a></h3>
 												<h4 class="product-price">$10.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -790,7 +790,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">cera</p>
 												<h3 class="product-name"><a href="cp.php">cera automotriz champion</a></h3>
 												<h4 class="product-price">$6.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -822,7 +822,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">cera</p>
 												<h3 class="product-name"><a href="ds.php">cera automotiva maxi rubber</a></h3>
 												<h4 class="product-price">$7.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -854,7 +854,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">limpiador</p>
 												<h3 class="product-name"><a href="ldt.php">Limpiador de tapicerías velour sq</a></h3>
 												<h4 class="product-price">$3.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -885,7 +885,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">masa para pulir</p>
 												<h3 class="product-name"><a href="masa-sw.php">MASA PARA PULIR A BASE DE AGUA 106 sherwin williams</a></h3>
 												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -916,7 +916,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">masa para pulir</p>
 												<h3 class="product-name"><a href="mdp-1k.php">MASA PARA PULIR A BASE DE AGUA MAXI RUBBER 1KG</a></h3>
 												<h4 class="product-price">$10.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -949,7 +949,7 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
+												<p class="product-category">formula</p>
 												<h3 class="product-name"><a href="sq.php">formula mecánica penetrante 70-6 sq</a></h3>
 												<h4 class="product-price">$3.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
@@ -1008,41 +1008,11 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="hot-deal">
-							<ul class="hot-deal-countdown">
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>N</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-									
-									</div>
-								</li>
-							</ul>
-							<h2 class="text-uppercase">Oferta de la semana</h2>
-							<p>50% de descuento</p>
-							<a class="primary-btn cta-btn" href="#">Comprar ya!</a>
+							
+							<h2 class="text-uppercase">GRACIAS POR TU VISITA</h2>
+							<p>¡Vuelve pronto!</p>
+							<a class="primary-btn cta-btn" href="#"><i class="fa fa-instagram"></i></a>
+							<a class="primary-btn cta-btn" href="#"><i class="fa fa-envelope-o"></i></a>
 						</div>
 					</div>
 				</div>

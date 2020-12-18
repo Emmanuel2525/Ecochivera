@@ -14,21 +14,7 @@
 
 		<link rel="icon" type="image/png" href="img/favicon.png"/>
 
-		<!-- Google font -->
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
-
-		<!-- Bootstrap -->
-		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
-
-		<!-- Slick -->
-		<link type="text/css" rel="stylesheet" href="css/slick.css"/>
-		<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
-
-		<!-- nouislider -->
-		<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
-
-		<!-- Font Awesome Icon -->
-		<link rel="stylesheet" href="css/font-awesome.min.css">
+	
 
 		<!-- Custom stlylesheet -->
 
@@ -44,22 +30,32 @@
 </head>
 	<body>
 	
+	
 
+	<div class="section">
+
+	<div class="stack">
+
+	<div class="contenedor">
+
+			<nav>
+				 <ul>
+					 <li><a href="#">ventas</a></li>
+					 <li><a href="#">vfdasfasf</a></li>
+					 <li><a href="#">dadadawd</a></li>
+					</ul>
+
+			</nav>
+
+	</div>
+
+	</div>
+
+
+	</div>
 		
 
-			<div class="menu-boton">
-
-			<div class="wrap">
-				<nav>
-					<ul>
-					<li><a href="">Whatssap</a></li>
-					<li><a href="">face</a></li>
-					<li><a href="">eeeee</a></li>
-					</ul>
-				</nav>
-			</div>
-
-			</div>
+			
 
 
 

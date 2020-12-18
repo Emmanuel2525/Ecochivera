@@ -12,8 +12,7 @@
 							<div class="footer">
 								<h3 class="footer-title">Correo</h3>
 								<ul class="footer-links">
-									<li><a href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>ventas@ecochivera.com.ve</a></li>
-									<li><a href="mailto:administracion.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>administracion@ecochivera.com.ve</a></li>
+									<li><a href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>ventas@ecochivera.com.ve</a> <br><a href="mailto:administracion.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>administracion@ecochivera.com.ve</a></li>
 
 								</ul>
 							</div>
