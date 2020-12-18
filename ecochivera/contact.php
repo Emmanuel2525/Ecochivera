@@ -72,23 +72,30 @@
 
 
 		<div class="contacto">
-			<div class="contenedor">
+			
+		<div class="contenedor">
 
-				<ul>
+
+				<div class="div-list">
+				<ul class="lista">
+					
 					<li>
-						<i class="fa fa-envelope-o"></i><a href="#">Email</a>
+					<a href="mailto:ventas@ecochivera.com.ve"><i class="fa fa-envelope-o"></i>Email</a>
 					</li>
 
 					<li>
-						<a href="fa fa-phone">Whatsapp</a>
+					<a href="#"><i class="fa fa-whatsapp"></i>Whatsapp</a>
 					</li>
 
 					<li>
-						<i class="fa fa-map-marker"></i><a href="#">Ubicacion</a>
+					<a href="#"><i class="fa fa-map-marker"></i>Ubicacion</a>
 					</li>
 				</ul>
 
-			</div>
+				</div>
+		</div>
+
+
 		</div>
 
 		

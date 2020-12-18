@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+
+
+.contacto{
+    background: black;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+
+.div-list{
+    margin: 0 auto;
+    width: 30%;
+    
+}
+
+
+.div-list .lista li{
+    text-align: center;
+    width: 300px;
+    margin: 30px;
+}
+
+
+.div-list .lista li a{
+    background:#65a722;
+    padding: 30px;
+}
+
+
+
+
