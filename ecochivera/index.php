@@ -886,8 +886,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="masa-sw.php">masa sw</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="masa-sw.php">MASA PARA PULIR A BASE DE AGUA 106 sherwin williams</a></h3>
+												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>

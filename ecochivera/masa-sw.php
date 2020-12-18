@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">masa sw</h2>
+							<h2 class="product-name">MASA PARA PULIR A BASE DE AGUA 106 sherwin williams</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -53,10 +53,12 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$00.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$5.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Producto diseñado para aplicar sobre superficies previamente
+							pintadas, contiene elementos abrasivos muy finos que pulen la superficie, eliminando una pequeña capa de barniz que ayudan a eliminar las huellas de lija, reducir el efecto
+							de piel de naranja y resaltar el brillo de la pintuta y barniz.. Producto exento de silicona.</p>
 
 							<br>
 
