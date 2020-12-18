@@ -138,7 +138,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">faro</p>
-												<h3 class="product-name"><a href="f-i-lancer.php">faro izquiedo mitsubishi lancer touring 2.0</a></h3>
+												<h3 class="product-name"><a href="f-i-lancer.php">faro izquierdo mitsubishi lancer touring 2.0</a></h3>
 												<h4 class="product-price">$65.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
