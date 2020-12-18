@@ -59,7 +59,7 @@
 								<h3 class="product-price">$5.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>es un aceite de la más avanzada tecnología y calidad en nanolubricantes, formulado con aceites sintéticos y minerales altamente refinados, así como con aditivos anti-desgaste de última generación.</p>
 
 							<br>
 

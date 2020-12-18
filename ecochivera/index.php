@@ -86,11 +86,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')">
@@ -120,11 +116,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')">
@@ -155,11 +147,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')">
@@ -189,11 +177,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')">
@@ -249,11 +233,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -282,11 +262,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -315,11 +291,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -348,11 +320,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -394,11 +362,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')">
@@ -428,11 +392,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 											<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
@@ -468,11 +428,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
@@ -495,7 +451,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">retrovisores</p>
-												<h3 class="product-name"><a href="rv-ford.php">Retrovisores der e izq Ford Fiesta Power 2004 </a></h3>
+												<h3 class="product-name"><a href="rv-ford.php">Retrovisor izquierdo y derecho Ford Fiesta Power 2004  </a></h3>
 												<h4 class="product-price">$30.00 <span>(c/u)</span><del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -504,11 +460,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
@@ -596,14 +548,10 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.html')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
+												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
 											</div>
 										</div>
 										<!-- /product -->
@@ -631,11 +579,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -650,12 +594,12 @@
 												<img src="./img/lubricantes/gonher-mg.png" alt="">
 												</a>
 												<div class="product-label">
-													<span class="new">Nuevo</span>
+													
 												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">Lubricantes</p>
-												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 15w40 api-sl</a></h3>
+												<h3 class="product-name"><a href="gonher-mg.php">aceite mineral sae 20w50 api-sn</a></h3>
 												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -664,11 +608,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -697,11 +637,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -730,11 +666,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -763,11 +695,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -796,11 +724,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -833,9 +757,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="cera-3m.php">cera 3m</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">cera</p>
+												<h3 class="product-name"><a href="cera-3m.php">cera rapida 3m</a></h3>
+												<h4 class="product-price">$10.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -843,11 +767,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -870,9 +790,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="cp.php">cera pulidora</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">cera</p>
+												<h3 class="product-name"><a href="cp.php">cera automotriz champion</a></h3>
+												<h4 class="product-price">$6.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -880,11 +800,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -906,9 +822,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ds.php">ds</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">cera</p>
+												<h3 class="product-name"><a href="ds.php">cera automotiva maxi rubber</a></h3>
+												<h4 class="product-price">$7.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -916,11 +832,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -942,9 +854,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="ldt.php">ds</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">limpiador</p>
+												<h3 class="product-name"><a href="ldt.php">Limpiador de tapicerías velour sq</a></h3>
+												<h4 class="product-price">$3.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -952,11 +864,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -977,9 +885,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="masa-sw.php">masa sw</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">masa para pulir</p>
+												<h3 class="product-name"><a href="masa-sw.php">MASA PARA PULIR A BASE DE AGUA 106 sherwin williams</a></h3>
+												<h4 class="product-price">$5.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -987,11 +895,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -1012,9 +916,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="mdp-1k.php">massa de polir</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">masa para pulir</p>
+												<h3 class="product-name"><a href="mdp-1k.php">MASA PARA PULIR A BASE DE AGUA MAXI RUBBER 1KG</a></h3>
+												<h4 class="product-price">$10.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -1022,11 +926,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -1049,9 +949,9 @@
 												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">category</p>
-												<h3 class="product-name"><a href="sq.php">sq</a></h3>
-												<h4 class="product-price">$00.0 <del class="product-old-price"></del></h4>
+												<p class="product-category">formula</p>
+												<h3 class="product-name"><a href="sq.php">formula mecánica penetrante 70-6 sq</a></h3>
+												<h4 class="product-price">$3.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -1059,11 +959,7 @@
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
 												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
+												
 											</div>
 											<div class="add-to-cart">
 												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button> </a>
@@ -1112,41 +1008,11 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="hot-deal">
-							<ul class="hot-deal-countdown">
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>N</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-									
-									</div>
-								</li>
-							</ul>
-							<h2 class="text-uppercase">Oferta de la semana</h2>
-							<p>50% de descuento</p>
-							<a class="primary-btn cta-btn" href="#">Comprar ya!</a>
+							
+							<h2 class="text-uppercase">GRACIAS POR TU VISITA</h2>
+							<p>¡Vuelve pronto!</p>
+							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a>
+							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i></a>
 						</div>
 					</div>
 				</div>

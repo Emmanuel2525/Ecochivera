@@ -116,7 +116,7 @@
 								<div class="dropdown">
 									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true" href="#">
 										<i class="fa fa-heart-o-"></i>
-										<span>$=1.075.442,16Bs</span>
+										<span>$=1.050.531,34Bs</span>
 										<div class="qtyy"></div> 
 									</a>
 								</div>

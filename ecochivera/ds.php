@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">ds</h2>
+							<h2 class="product-name">cera automotiva maxi rubber</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -53,10 +53,10 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$00.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$7.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>El refinado y el lustre están indicados para eliminar marcas de boinas y micro arañazos en cualquier tipo de pintura, ya que proporcionan brillo intenso y durabilidad del color.Cuando se usa con la boina de espuma mixta de doble cara, el producto realiza una doble función, refinando y puliendo con alto brillo en un solo paso.</p>
 
 							<br>
 

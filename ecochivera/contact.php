@@ -6,32 +6,22 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		 <meta name="description" content="!!Tu mejor opcion a la hora de adquirir respuestos reciclados de vehiculos, contamos con años de experiencia y gran variedad de productos nuevos y usados!!">
+		 <meta name="description" content="!!Tu mejor opcion a la hora de adquirir respuestos reciclados de vehiclios, contamos con años de experiencia y gran variedad de productos nuevos y usados!!">
 
-		 <meta name="keywords" content="Ecochivera, Repuestos, Vehiculos, Nuevos, Usados, Lubricantes, Partes de Vehiculos, Aceesorios de Vehiculos">
+		 <meta name="keywords" content="Ecochivera, Repuestos, Vehiclios, Nuevos, Usados, Lubricantes, Partes de Vehiclios, Aceesorios de Vehiclios">
 
 		<title>Ecochivera</title>
 
 		<link rel="icon" type="image/png" href="img/favicon.png"/>
 
-		<!-- Google font -->
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
-
-		<!-- Bootstrap -->
-		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
-
-		<!-- Slick -->
-		<link type="text/css" rel="stylesheet" href="css/slick.css"/>
-		<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
-
-		<!-- nouislider -->
-		<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
 
 		<!-- Font Awesome Icon -->
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 
+	
+
 		<!-- Custom stlylesheet -->
-		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+
 		<link type="text/css" rel="stylesheet" href="css/stylec.css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -43,57 +33,40 @@
 
 </head>
 	<body>
-		<!-- HEADER -->
-		<header>
+	
+	
 
+	<div class="section">
 
-			<!-- MAIN HEADER -->
-			<div id="header">
-				<!-- container -->
-				<div class="container">
-					<!-- row -->
-					<div class="row">
-						<!-- LOGO -->
-						<div class="col-md-3">
-							<div class="header-logo">
-								<a href="#" class="logo">
-									<img src="./img/LOGO1.png" width="150" height="70" alt="">
-								</a>
-							</div>
-						</div>							
-					</div>
-					<!-- row -->
-				</div>
-				<!-- container -->
-			</div>
-			
+	<div class="stack">
 
-		</header>
-
-
-		<div class="contacto">
-			<div class="contenedor">
-
-				<ul>
-					<li>
-						<i class="fa fa-envelope-o"></i><a href="#">Email</a>
-					</li>
-
-					<li>
-						<a href="fa fa-phone">Whatsapp</a>
-					</li>
-
-					<li>
-						<i class="fa fa-map-marker"></i><a href="#">Ubicacion</a>
-					</li>
-				</ul>
-
-			</div>
-		</div>
-
-		
 
 	
+	<div class="contenedor">
+
+			
+
+			<nav>
+
+			<h2>Haz tu pedido a través de estos medios:</h2>
+				 <ul>
+					 <li><a href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i> CORREO</a></li>
+					 <li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-whatsapp"></i>0424-106-47-47</a></li>
+					 <li><a href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i> INSTAGRAM</a></li>
+					 <li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i> UBICACION</a></li>
+					</ul>
+
+			</nav>
+
+	</div>
+
+	</div>
+
+
+	</div>
+		
+
+			
 
 
 

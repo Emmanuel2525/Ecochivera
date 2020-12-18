@@ -12,11 +12,11 @@
 					<div class="col-md-5 col-md-push-2">
 						<div id="product-main-img">
 							<div class="product-preview">
-								<img src="./img/limpieza/mdp-1k.png" alt="">
+								<img src="./img/limpieza/cp.png" alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/limpieza/mdp-1k2.png" alt="">
+								<img src="./img/limpieza/cp2.png" alt="">
 							</div>
 
 						</div>
@@ -27,11 +27,11 @@
 					<div class="col-md-2  col-md-pull-5">
 						<div id="product-imgs">
 						<div class="product-preview">
-								<img src="./img/limpieza/mdp-1k.png" alt="">
+								<img src="./img/limpieza/cp.png" alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/limpieza/mdp-1k2.png" alt="">
+								<img src="./img/limpieza/cp2.png" alt="">
 							</div>
 							
 						</div>
@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">MASA PARA PULIR A BASE DE AGUA MAXI RUBBER 1KG</h2>
+							<h2 class="product-name">cera automotriz champion</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -53,12 +53,11 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$10.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$6.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>La masa de pulir 2 a base agua puede utilizarse para el pulido automotor sobre cualquier tipo de tinta y barniz, dejando la superficie lisa y brillante. <br><br>
-
-							Indicada para eliminar arañazos de lijado con grano 1200 o superior y también el desgaste sufrido por pinturas y/o repintados antiguos debido a exposición a agentes atmosféricos, además de efectos “piel de naranja” moderados, escurrimientos leves y pequeñas imperfecciones, sin dañar la pintura, preparando la superficie para el pulido final, garantizando un acabamiento con brillo intenso.</p>
+							<p>Cera Pulidora Champion 946ML
+							Ideal para quitar la pintura quemada.</p>
 
 							<br>
 

@@ -44,7 +44,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">aceite mineral sae 15w40 api-sl</h2>
+							<h2 class="product-name">aceite mineral sae 20w50 api-sn</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -59,7 +59,7 @@
 								<h3 class="product-price">$5.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Aceite de la más avanzada tecnología y calidad para proteger los motores a gasolina de modelos nuevos y anteriores, así como también el medio ambiente. Elaborado con aceites básicos hidrotratados o hidrofraccionados con un alto grado de refinación y con adictivos de última generación para garantizar el máximo desempeño del lubricante en el cuidado de su motor, prolongando la vida útil del mismo, evita reparaciones costosas y cumple con las normas internacionales de mayor exigencia de calidad actualmente como API SN.</p>
 
 							<br>
 

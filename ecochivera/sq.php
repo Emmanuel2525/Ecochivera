@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">sq</h2>
+							<h2 class="product-name">formula mecánica penetrante 70-6 sq</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -53,10 +53,10 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$00.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$3.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p> La Formula Mecánica de SQ 70-6 penetra, limpia y lubrica por lo que es conveniente tenerlo a la mano tanto en el hogar como en el auto. El SQ 70-6 afloja piezas pegadas por culpa del óxido, alcanzando los puntos más difíciles de llegar. </p>
 
 							<br>
 

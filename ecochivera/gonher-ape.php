@@ -58,7 +58,9 @@
 								<h3 class="product-price">$5.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Lubricante mineral para engranajes automotrices de servicio moderado ha pesado de uso múltiple, elaborado con básicos
+parafinicos y aditivos que le proporcionan excelente propiedades de extrema presión, resistencia al desgaste, resistencia
+contra la formación de espuma, corrosión y oxidación.  </p>
 
 							<br>
 

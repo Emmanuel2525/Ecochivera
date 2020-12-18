@@ -59,7 +59,7 @@
 								<h3 class="product-price">$3.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>El líquido de frenos se compone normalmente de derivados de poliglicol. En casos extraordinarios (ej. coches antiguos, ejército) se usan líquidos de silicona y aceites minerales.</p>
 
 							<br>
 
