@@ -48,7 +48,7 @@
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
-									<i class="fa fa-star-o"></i>
+									<i class="fa fa-star"></i>
 								</div>
 								
 							</div>
@@ -56,7 +56,9 @@
 								<h3 class="product-price">$100.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Faro derecho de TOYOTA 4RUNNER en buenas condiciones. <br> 
+							si te interesa este producto, no dudes en contactarnos.
+						 	</p>
 
 							<br>
 

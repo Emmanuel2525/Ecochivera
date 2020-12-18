@@ -51,7 +51,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">guardafango delantero izquierdo hyundai elantra</h2>
+							<h2 class="product-name">guardafango delantero izquierdo hyundai elantra 1998/2000 (nuevo)</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -63,10 +63,10 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h3>
+								<h3 class="product-price">$50.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Guardafango delantero izquierdo HYUNDAI ELANTRA 1998-2000 nuevo.  <br>Si te interesa este producto, no dudes en contactarnos. </p>
 
 							<br>
 

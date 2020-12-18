@@ -111,8 +111,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Stops</p>
-												<h3 class="product-name"><a href="f-a-captiwa.php">Stops izq y dere chevrolet captiwa</a></h3>
-												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="f-a-captiwa.php">Stop derecho e izquierdo chevrolet captiva 06/08</a></h3>
+												<h4 class="product-price">$75.00 <del class="product-old-price"></del><span>(c/u)</span></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -146,8 +146,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">faro</p>
-												<h3 class="product-name"><a href="f-i-lancer.php">faro izquiedo mitsubishi lancer</a></h3>
-												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="f-i-lancer.php">faro izquiedo mitsubishi lancer touring 2.0</a></h3>
+												<h4 class="product-price">$65.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -181,7 +181,7 @@
 											<div class="product-body">
 												<p class="product-category">stop</p>
 												<h3 class="product-name"><a href="s-i-machito.php">stop izquierdo toyota machito</a></h3>
-												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<h4 class="product-price">$35.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -240,8 +240,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
-												<h3 class="product-name"><a href="cherokee-kk.php">guardafango delantero derecho cherokee kk</a></h3>
-												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
+												<h3 class="product-name"><a href="cherokee-kk.php">guardafango delantero derecho jeep cherokee kk</a></h3>
+												<h4 class="product-price">$55.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -273,8 +273,8 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
-												<h3 class="product-name"><a href="racer.php">guardafango delantero derecho daewoo racer</a></h3>
-												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
+												<h3 class="product-name"><a href="racer.php">guardafango delantero derecho daewoo racer 1995/1997</a></h3>
+												<h4 class="product-price">$30.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -307,7 +307,7 @@
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
 												<h3 class="product-name"><a href="gdd-picanto.php">guardafango delantero derecho kia picanto</a></h3>
-												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
+												<h4 class="product-price">$45.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -333,11 +333,14 @@
 												<a href="gdi-elantra.php">
 												<img src="./img/repuestos/gf/gdi-hyundai-elantra.png" alt="">
 											</a>
+											<div class="product-label">
+												<span class="new">Nuevo</span>
+												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">Guardafangos</p>
-												<h3 class="product-name"><a href="#">guardafango delantero izquierdo hyundai elantra</a></h3>
-												<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
+												<h3 class="product-name"><a href="gdi-elantra.php">guardafango delantero izquierdo hyundai elantra 1998/2000</a></h3>
+												<h4 class="product-price">$50.00<del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -440,37 +443,7 @@
 
 
 
-										<!-- product 3 -->
-										<div class="product">
-											<div class="product-img">
-												<a href="ab-cp-lancer.php">
-												<img src="./img/repuestos/airbag/airbag-cp-mitsubishi-lancer.png" alt="">  </a>
-												<div class="product-label">
-													
-												</div>
-											</div>
-											<div class="product-body">
-												<p class="product-category">airbag</p>
-												<h3 class="product-name"><a href="ab-cp-lancer.php">airbag copiloto mitsubishi lancer</a></h3>
-												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-												</div>
-												<div class="product-btns">
-													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
-													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>
-													<button class="quick-view"><i class="fa fa-eye"></i><span class="tooltipp">quick view</span></button>
-												</div>
-											</div>
-											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.php')"><button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button></a>
-											</div>
-										</div>
-										<!-- /product 3 -->
+								
 
 
 										
@@ -479,15 +452,15 @@
 										<div class="product">
 											<div class="product-img">
 												<a href="ab-cp-tb-lancer.php">
-												<img src="./img/repuestos/airbag/airbag-tablero-cp-lancer.png" alt="">  </a>
+												<img src="./img/repuestos/airbag/airbag-cp-lancer.png" alt="">  </a>
 												<div class="product-label">
 													
 												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">airbag</p>
-												<h3 class="product-name"><a href="ab-cp-tb-lancer.php">airbag tablero copiloto mitsubishi lancer</a></h3>
-												<h4 class="product-price">$00.00 <del class="product-old-price"></del></h4>
+												<h3 class="product-name"><a href="ab-cp-tb-lancer.php">airbag tablero copiloto mitsubishi lancer touring 2.0</a></h3>
+												<h4 class="product-price">$140.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
 													<i class="fa fa-star"></i>
@@ -1131,299 +1104,57 @@
 		</div>
 		<!-- /SECTION -->
 
-		<!-- SECTION -->
-		<div class="section">
+	<!-- HOT DEAL SECTION -->
+	<div id="hot-deal" class="section">
 			<!-- container -->
 			<div class="container">
 				<!-- row -->
 				<div class="row">
-					<div class="col-md-4 col-xs-6">
-						<div class="section-title">
-							<h4 class="title">Mas vendido</h4>
-							<div class="section-nav">
-								<div id="slick-nav-3" class="products-slick-nav"></div>
-							</div>
-						</div>
-
-						<div class="products-widget-slick" data-nav="#slick-nav-3">
-							<div>
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product07.pngg" alt="">
+					<div class="col-md-12">
+						<div class="hot-deal">
+							<ul class="hot-deal-countdown">
+								<li>
+									<div>
+										<h3>G</h3>
+									
 									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$Precio <del class="product-old-price">$Precio viejo</del></h4>
+								</li>
+								<li>
+									<div>
+										<h3>A</h3>
+										
 									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product08.pngg" alt="">
+								</li>
+								<li>
+									<div>
+										<h3>N</h3>
+										
 									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$Precio <del class="product-old-price">$Precio viejo</del></h4>
+								</li>
+								<li>
+									<div>
+										<h3>G</h3>
+									
 									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product09.pngg" alt="">
+								</li>
+								<li>
+									<div>
+										<h3>A</h3>
+									
 									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$Precio <del class="product-old-price">$Precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- product widget -->
-							</div>
-
-							<div>
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product01.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$Precio <del class="product-old-price">$Precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product02.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$Precio <del class="product-old-price">$Precio  viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product03.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- product widget -->
-							</div>
+								</li>
+							</ul>
+							<h2 class="text-uppercase">Oferta de la semana</h2>
+							<p>50% de descuento</p>
+							<a class="primary-btn cta-btn" href="#">Comprar ya!</a>
 						</div>
 					</div>
-
-					<div class="col-md-4 col-xs-6">
-						<div class="section-title">
-							<h4 class="title">Mas vendido</h4>
-							<div class="section-nav">
-								<div id="slick-nav-4" class="products-slick-nav"></div>
-							</div>
-						</div>
-
-						<div class="products-widget-slick" data-nav="#slick-nav-4">
-							<div>
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product04.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product05.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product06.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- product widget -->
-							</div>
-
-							<div>
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product07.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product08.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product09.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- product widget -->
-							</div>
-						</div>
-					</div>
-
-					<div class="clearfix visible-sm visible-xs"></div>
-
-					<div class="col-md-4 col-xs-6">
-						<div class="section-title">
-							<h4 class="title">Mas vendido</h4>
-							<div class="section-nav">
-								<div id="slick-nav-5" class="products-slick-nav"></div>
-							</div>
-						</div>
-
-						<div class="products-widget-slick" data-nav="#slick-nav-5">
-							<div>
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product01.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product02.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product03.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- product widget -->
-							</div>
-
-							<div>
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product04.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product05.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- /product widget -->
-
-								<!-- product widget -->
-								<div class="product-widget">
-									<div class="product-img">
-										<img src="./img/product06.pngg" alt="">
-									</div>
-									<div class="product-body">
-										<p class="product-category">Categoria</p>
-										<h3 class="product-name"><a href="#">Nombre de producto</a></h3>
-										<h4 class="product-price">$precio <del class="product-old-price">$precio viejo</del></h4>
-									</div>
-								</div>
-								<!-- product widget -->
-							</div>
-						</div>
-					</div>
-
 				</div>
 				<!-- /row -->
 			</div>
 			<!-- /container -->
 		</div>
-		<!-- /SECTION -->
+		<!-- /HOT DEAL SECTION -->
 		
 
 

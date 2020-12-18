@@ -11,6 +11,10 @@
 					<!-- Product main img -->
 					<div class="col-md-5 col-md-push-2">
 						<div id="product-main-img">
+
+						<div class="product-preview">
+								<img src="./img/repuestos/airbag/airbag-cp-lancer.png" alt="">
+						</div>
 							
 						<div class="product-preview">
 								<img src="./img/repuestos/airbag/airbag-tablero-cp-lancer.png" alt="">
@@ -23,6 +27,10 @@
 					<!-- Product thumb imgs -->
 					<div class="col-md-2  col-md-pull-5">
 						<div id="product-imgs">
+
+						<div class="product-preview">
+								<img src="./img/repuestos/airbag/airbag-cp-lancer.png" alt="">
+						</div>
 						<div class="product-preview">
 								<img src="./img/repuestos/airbag/airbag-tablero-cp-lancer.png" alt="">
 							</div>
@@ -34,7 +42,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">Airbag tablero copiloto mitsubishi lancer</h2>
+							<h2 class="product-name">Airbag tablero copiloto mitsubishi lancer touring 2.0</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -46,10 +54,10 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$00.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$140.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Airbag de tablero lado copiloto del mitsubishi lancer touring 2.0 en buenas condiciones (usado).<br>Si te interesa este producto, no dudes en contactarnos. </p>
 
 							<br>
 

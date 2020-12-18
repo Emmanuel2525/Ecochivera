@@ -67,7 +67,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">Stops izq y dere chevrolet captiwa</h2>
+							<h2 class="product-name">Stop derecho e izquierdo chevrolet captiva 06/08</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -79,10 +79,10 @@
 								
 							</div>
 							<div>
-								<h3 class="product-price">$00.00 <del class="product-old-price"></del></h3>
+								<h3 class="product-price">$75.00 <del class="product-old-price"></del><span>(c/u)</span></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+							<p>  Stop derecho e izquierdo para chevrolet captiva 2006-2008 sin detalles. Si te interesa este producto, no dudes en contactarnos.</p>
 
 							<br>
 
