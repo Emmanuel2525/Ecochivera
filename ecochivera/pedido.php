@@ -2,7 +2,7 @@
 			<div class="popup" id="popup">
 
 				<a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup"><i class="fa fa-times"></i></a>
-                <h3>Haz tu pedido!</h3>
+                <h3><i class="fa fa-shopping-cart"></i> Haz tu pedido!</h3>
                 
                 <p>haz tu pedido a través de los siguientes medios..</p>
 
