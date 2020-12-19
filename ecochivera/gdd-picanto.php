@@ -112,7 +112,10 @@
 <br>
 <br>
 <br>
-
+<?php
+			require('pedido.php');
+		
+		?>
 
 
 <?php

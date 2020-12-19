@@ -113,7 +113,10 @@
 <br>
 <br>
 
-
+<?php
+			require('pedido.php');
+		
+		?>
 
 <?php
 			require('footer.php');

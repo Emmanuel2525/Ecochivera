@@ -89,7 +89,7 @@
 												
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.php')">
+												<a href="#">
 												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
 												</a>
 											</div>
@@ -1029,7 +1029,10 @@
 
 
 
+		<?php
+			require('pedido.php');
 		
+		?>
 
 
 
