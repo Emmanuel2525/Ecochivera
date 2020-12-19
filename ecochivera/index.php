@@ -1008,12 +1008,27 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="hot-deal">
+
+							<br>
+							<br>
+							<br>
+							<br>
+						
+							
 							
 							<h2 class="text-uppercase">GRACIAS POR TU VISITA</h2>
 							
-							<p>¡Vuelve pronto!</p>
+							<h3>¡Vuelve pronto!<h3>
+
+							
+							<a class="primary-btn cta-btn" href="https://wa.me/+584241064747"><i class="fa fa-whatsapp"></i></a>
 							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a>
 							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i></a>
+							<a class="primary-btn cta-btn" href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i></a>
+
+							
+							
+
 						</div>
 					</div>
 				</div>

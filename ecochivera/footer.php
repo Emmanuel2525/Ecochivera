@@ -43,7 +43,7 @@
 							<div class="footer">
 								<h3 class="footer-title">Telefono</h3>
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-phone"></i>0212-227-42-924</a> <br> <a href="#"><i class="fa fa-phone"></i>0424-106-47-47</a></li>
+									<li><a href="https://wa.me/+584241064747"><i class="fa fa-whatsapp"></i>0424-106-47-47</a> <br><a href="#"><i class="fa fa-phone"></i>0212-227-42-924</a> </li>
 								</ul>
 							</div>
 						</div>

@@ -93,7 +93,7 @@ ul, ol {
 .primary-btn {
   display: inline-block;
   padding: 12px 30px;
-  background-color:#65a722;
+  background-color:#15161D;
   border: none;
   border-radius: 40px;
   color: #FFF;
@@ -105,8 +105,9 @@ ul, ol {
 }
 
 .primary-btn:hover, .primary-btn:focus {
-  opacity: 0.9;
-  color: #FFF;
+  background: #4b4d5a;
+  color: #ffffff;
+  
 }
 
 /*----------------------------*\
@@ -796,10 +797,10 @@ textarea.input {
 ===========================================================*/
 
 #hot-deal.section {
-  padding: 80px 0px;
+  padding-top: 170px;
+  padding-bottom: 20px;
   margin: 30px 0px 0px 0px;
-  background-color: #E4E7ED;
-  background-image: url('../img/hotdeal.pngg');
+  background-image: url('../img/despedida.png');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -2241,4 +2242,14 @@ textarea.input {
     float: none;
     margin-top: 10px;
   }
+}
+
+
+
+@media only screen and (max-width: 375px){
+
+  #hot-deal {
+    display: none;
+  }
+
 }
