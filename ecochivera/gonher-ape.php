@@ -108,7 +108,10 @@ contra la formación de espuma, corrosión y oxidación.  </p>
 <br>
 <br>
 
-
+<?php
+			require('pedido.php');
+		
+		?>
 
 <?php
 			require('footer.php');

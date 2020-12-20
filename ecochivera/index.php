@@ -89,7 +89,7 @@
 												
 											</div>
 											<div class="add-to-cart">
-												<a href="javascript:ventanaSecundaria('contact.php')">
+												<a href="#">
 												<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i>Haz tu pedido</button>
 												</a>
 											</div>
@@ -138,7 +138,7 @@
 											</div>
 											<div class="product-body">
 												<p class="product-category">faro</p>
-												<h3 class="product-name"><a href="f-i-lancer.php">faro izquiedo mitsubishi lancer touring 2.0</a></h3>
+												<h3 class="product-name"><a href="f-i-lancer.php">faro izquierdo mitsubishi lancer touring 2.0</a></h3>
 												<h4 class="product-price">$65.00 <del class="product-old-price"></del></h4>
 												<div class="product-rating">
 													<i class="fa fa-star"></i>
@@ -1008,11 +1008,27 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="hot-deal">
+
+							<br>
+							<br>
+							<br>
+							<br>
+						
+							
 							
 							<h2 class="text-uppercase">GRACIAS POR TU VISITA</h2>
-							<p>¡Vuelve pronto!</p>
+							
+							<h3>¡Vuelve pronto!<h3>
+
+							
+							<a class="primary-btn cta-btn" href="https://wa.me/+584241064747"><i class="fa fa-whatsapp"></i></a>
 							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a>
 							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i></a>
+							<a class="primary-btn cta-btn" href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i></a>
+
+							
+							
+
 						</div>
 					</div>
 				</div>
@@ -1028,7 +1044,10 @@
 
 
 
+		<?php
+			require('pedido.php');
 		
+		?>
 
 
 

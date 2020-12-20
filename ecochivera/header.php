@@ -33,6 +33,7 @@
 	
 			<!-- Custom stlylesheet -->
 			<link type="text/css" rel="stylesheet" href="css/style.css"/>
+			<link type="text/css" rel="stylesheet" href="css/stylec.css"/>
 	
 			<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 			<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -100,7 +101,7 @@
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="http://www.bcv.org.ve/">
+									<a href="http://www.bcv.org.ve/" target="_blank">
 										<img src="img/logo-bcv.png" alt="" width="30"><span>BCV</span>
 										
 										
@@ -114,9 +115,9 @@
 
 								
 								<div class="dropdown">
-									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true" href="#">
+									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
 										<i class="fa fa-heart-o-"></i>
-										<span>$=1.050.531,34Bs</span>
+										<span>$=1.303.254,00Bs</span>
 										<div class="qtyy"></div> 
 									</a>
 								</div>
