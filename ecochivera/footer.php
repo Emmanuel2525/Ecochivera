@@ -18,7 +18,7 @@
 							<div class="footer">
 								<h3 class="footer-title">Correo</h3>
 								<ul class="footer-links">
-									<li><a href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>ventas@ecochivera.com.ve</a> <br><a href="mailto:administracion.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i>administracion@ecochivera.com.ve</a></li>
+									<li><a href="mailto:ventas.ecochivera@gmail.com.ve" target="_blank"><i class="fa fa-envelope-o"></i>ventas@ecochivera.com.ve</a> <br><a href="mailto:administracion.ecochivera@gmail.com.ve" target="_blank"><i class="fa fa-envelope-o"></i>administracion@ecochivera.com.ve</a></li>
 
 								</ul>
 							</div>
@@ -29,7 +29,7 @@
 								<h3 class="footer-title">Ubicacion</h3>
 								<p></p>
 								<ul class="footer-links">
-									<li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i> Calle Tacagua entre 3ra y 4 Qta. Santa Lucia, PB, Urb. Atlantida, Catia La Mar edo La Guaira</a></li>
+									<li><a href="https://goo.gl/maps/ptccMEPURGVaEzD16" target="_blank"><i class="fa fa-map-marker"></i> Calle Tacagua entre 3ra y 4 Qta. Santa Lucia, PB, Urb. Atlantida, Catia La Mar edo La Guaira</a></li>
 									
 									
 								</ul>
@@ -43,7 +43,7 @@
 							<div class="footer">
 								<h3 class="footer-title">Telefono</h3>
 								<ul class="footer-links">
-									<li><a href="https://wa.me/+584241064747"><i class="fa fa-whatsapp"></i>0424-106-47-47</a> <br><a href="#"><i class="fa fa-phone"></i>0212-227-42-924</a> </li>
+									<li><a href="https://wa.me/+584241064747" target="_blank"><i class="fa fa-whatsapp"></i>0424-106-47-47</a> <br><a href="#"><i class="fa fa-phone"></i>0212-227-42-924</a> </li>
 								</ul>
 							</div>
 						</div>
