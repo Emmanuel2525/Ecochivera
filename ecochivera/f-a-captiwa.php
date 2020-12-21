@@ -82,7 +82,7 @@
 								<h3 class="product-price">$75.00 <del class="product-old-price"></del><span>(c/u)</span></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>  Stop derecho e izquierdo para chevrolet captiva 2006-2008 sin detalles. Si te interesa este producto, no dudes en contactarnos.</p>
+							<p>  Stop derecho e izquierdo para chevrolet captiva 2006-2008 (usados) en buen estado.</p>
 
 							<br>
 
