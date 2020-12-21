@@ -70,7 +70,7 @@
 						<div class="col-md-3">
 							<div class="header-logo">
 								<a href="index.php" class="logo">
-									<img src="./img/LOGO1.png" width="150" height="70" alt="">
+									<img src="./img/LOGO1.png" width="140" height="80" alt="">
 								</a>
 							</div>
 						</div>
@@ -117,7 +117,7 @@
 								<div class="dropdown">
 									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
 										<i class="fa fa-heart-o-"></i>
-										<span>$=1.303.254,00Bs</span>
+										<span>$=1.062.380,48Bs</span>
 										<div class="qtyy"></div> 
 									</a>
 								</div>

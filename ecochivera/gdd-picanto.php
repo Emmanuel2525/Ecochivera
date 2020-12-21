@@ -65,7 +65,8 @@
 								<h3 class="product-price">$45.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Guardafango delantero derecho KIA PICANTO nuevo.  <br>Si te interesa este producto, no dudes en contactarnos.</p>
+							<p>Guardafango delantero derecho KIA PICANTO nuevo.
+							</p>
 
 							<br>
 
@@ -87,12 +88,13 @@
 
 							<ul class="product-links">
 								<li>Contactanos:</li>
-								<li><a href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a></li>
-								<li><a href="https://www.facebook.com/people/Eco-Chivera/100010516177014"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="mailto:ventas@ecochivera.com.ve"><i class="fa fa-envelope"></i></a></li>
-								<li><a href="https://twitter.com/Eco_chivera"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="https://www.instagram.com/ecochivera/"  target="_blank"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="https://www.facebook.com/people/Eco-Chivera/100010516177014"  target="_blank"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="mailto:ventas@ecochivera.com.ve"  target="_blank"><i class="fa fa-envelope"></i></a></li>
+								<li><a href="https://twitter.com/Eco_chivera"  target="_blank"><i class="fa fa-twitter"></i></a></li>
 								
 							</ul>
+
 
 						</div>
 					</div>

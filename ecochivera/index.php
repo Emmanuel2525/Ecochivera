@@ -20,6 +20,31 @@
 		
 		
 		
+		<!-- Welcome -->
+		<div id="welcome" class="section">
+			<!-- container -->
+			<div class="container">
+				<!-- row -->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="hot-deal">
+							
+							<div class="welcome">
+							<h2 class="text-uppercase">¿QUE somos?</h2>
+							<p>Mision</p>
+							<p>ect..</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /Welcome -->
+
+
 
 
 	
@@ -53,9 +78,6 @@
 							</div>
 						</div>
 					</div>
-
-
-
 					<!-- /section title -->
 
 					<!-- Products tab & slick -->
@@ -73,7 +95,12 @@
 										<div class="product">
 											<div class="product-img">
 												<a href="f-d-forunner.php">
-												<img src="./img/repuestos/luces/faro/faro-d-toyota-forunner.png" alt="">  </a>
+												<img src="./img/repuestos/luces/faro/faro-d-toyota-forunner.png" alt="">  
+											</a>
+
+											<div class="product-label">
+												<span class="new">Usado</span>
+												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">Faro</p>
@@ -104,9 +131,14 @@
 												<a href="f-a-captiwa.php">
 												<img src="./img/repuestos/luces/stop/stop-a-chevrolet-captiwa.png" alt=""> 
 											</a>
+
+											<div class="product-label">
+												<span class="new">Usado</span>
+												</div>
 											</div>
 											<div class="product-body">
-												<p class="product-category">Stops</p>
+											
+												<p class="product-category">Stop</p>
 												<h3 class="product-name"><a href="f-a-captiwa.php">Stop derecho e izquierdo chevrolet captiva 06/08</a></h3>
 												<h4 class="product-price">$75.00 <del class="product-old-price"></del><span>(c/u)</span></h4>
 												<div class="product-rating">
@@ -135,6 +167,10 @@
 												<a href="f-i-lancer.php">
 												<img src="./img/repuestos/luces/faro/faro-i-mitsubishi-lancer.png" alt=""> 
 											</a>
+
+											<div class="product-label">
+												<span class="new">Usado</span>
+												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">faro</p>
@@ -165,6 +201,10 @@
 												<a href="s-i-machito.php">
 												<img src="./img/repuestos/luces/stop/stop-i-toyota-machito.png" alt=""> 
 											</a>
+
+											<div class="product-label">
+												<span class="new">Usado</span>
+												</div>
 											</div>
 											<div class="product-body">
 												<p class="product-category">stop</p>
@@ -218,8 +258,7 @@
 												<img src="./img/repuestos/gf/gdd-cherokee-kk.png" alt="">
 												</a>
 												<div class="product-label">
-													
-													
+												<span class="new">Usado</span>
 												</div>
 											</div>
 											<div class="product-body">
@@ -247,8 +286,8 @@
 											<a href="racer.php">
 												<img src="./img/repuestos/gf/gdd-daewoo-racer.png" alt="">
 											</a>
-												<div class="product-label">
-													
+											<div class="product-label">
+												<span class="new">Usado</span>
 												</div>
 											</div>
 											<div class="product-body">
@@ -346,9 +385,8 @@
 												<a href="hv-ford.php">
 												<img src="./img/repuestos/hidrovac/hidrovac-ford-fiesta-power3.png" alt="">
 											</a>
-												<div class="product-label">
-													
-													
+											<div class="product-label">
+												<span class="new">Usado</span>
 												</div>
 											</div>
 											<div class="product-body">
@@ -378,7 +416,7 @@
 												<a href="hv-mit.php">
 												<img src="./img/repuestos/hidrovac/hidrovac-mitsubishi-lancer2.0.png" alt="">  </a>
 												<div class="product-label">
-													
+												<span class="new">Usado</span>
 												</div>
 											</div>
 											<div class="product-body">
@@ -414,7 +452,7 @@
 												<a href="ab-cp-tb-lancer.php">
 												<img src="./img/repuestos/airbag/airbag-cp-lancer.png" alt="">  </a>
 												<div class="product-label">
-													
+												<span class="new">Usado</span>
 												</div>
 											</div>
 											<div class="product-body">
@@ -446,7 +484,7 @@
 												<a href="rv-ford.php">
 												<img src="./img/repuestos/rv/retrovisor-a-ford-fiesta-power2.png" alt="">  </a>
 												<div class="product-label">
-													
+												<span class="new">Usado</span>
 												</div>
 											</div>
 											<div class="product-body">
