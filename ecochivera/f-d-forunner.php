@@ -56,7 +56,7 @@
 								<h3 class="product-price">$100.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Faro derecho de TOYOTA 4RUNNER. <br> 
+							<p>Faro derecho de TOYOTA 4RUNNER.<br> 
 							
 						 	</p>
 
