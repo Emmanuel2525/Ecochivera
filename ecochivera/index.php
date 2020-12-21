@@ -1007,8 +1007,11 @@
 		</div>
 		<!-- /SECTION -->
 
+	
+		
+
 	<!-- HOT DEAL SECTION -->
-	<div id="hot-deal" class="section">
+<div id="hot-deal" class="section" class="contactanos">
 			<!-- container -->
 			<div class="container">
 				<!-- row -->
@@ -1044,9 +1047,6 @@
 			<!-- /container -->
 		</div>
 		<!-- /HOT DEAL SECTION -->
-		
-
-
 
 
 

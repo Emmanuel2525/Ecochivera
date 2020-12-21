@@ -64,29 +64,7 @@
 
 
 				
-		<!-- Welcome -->
-		<div id="welcome" class="section">
-			<!-- container -->
-			<div class="container">
-				<!-- row -->
-				<div class="row">
-					<div class="col-md-12">
-						<div class="hot-deal">
-							
-							<div class="welcome">
-							<h2 class="text-uppercase">Alcance</h2>
-							<p>Mision</p>
-							<p>ect..</p>
 
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /row -->
-			</div>
-			<!-- /container -->
-		</div>
-		<!-- /Welcome -->
 	
 
 

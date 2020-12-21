@@ -16,6 +16,41 @@
 
 }
 
+
+
+
+#welcome.section{
+
+    margin: 0;
+    padding: 0;
+
+    
+    
+
+}
+
+
+
+
+#welcome .welcome {
+    margin-top:40px;
+    margin-bottom:20px;
+    padding: 20px;
+
+}
+
+#welcome.section p{
+
+    line-height: normal;
+    font-size: 18px;
+    text-transform: none;
+    text-align: justify;
+
+
+}
+
+
+
 .overlay.active{
     visibility: visible;
 }
@@ -96,16 +131,11 @@
 
 
 
-
-
 .btn-links:hover{
     color: white;
     background:  #78ca25;
     
 }
-
-
-
 
 
 

@@ -159,8 +159,8 @@
 				
 					<ul class="main-nav nav navbar-nav">
 						<li><a href="index.php">Inicio</a></li>
-						<li><a href="alcance.php">Alcance</a></li>
-						<li><a href="vision.php">Visión</a></li>
+						<li><a href="alcance.php">Alcance y Visión</a></li>
+						<li><a href="#hot-deal">Contactanos</a></li>
 						
 					</ul>
 
@@ -171,3 +171,5 @@
 			<!-- /container -->
 		</nav>
 		<!-- /NAVIGATION -->
+
+
