@@ -143,4 +143,31 @@
 			</div>
 			<!-- /MAIN HEADER -->
 		</header>
+
+			
+
 		<!-- /HEADER -->
+
+
+		<!-- NAVIGATION -->
+		<nav id="navigation">
+			<!-- container -->
+			<div class="container">
+				<!-- responsive-nav -->
+				<div id="responsive-nav">
+					<!-- NAV -->
+				
+					<ul class="main-nav nav navbar-nav">
+						<li><a href="index.php">Inicio</a></li>
+						<li><a href="alcance.php">Alcance</a></li>
+						<li><a href="vision.php">Visión</a></li>
+						
+					</ul>
+
+					<!-- /NAV -->
+				</div>
+				<!-- /responsive-nav -->
+			</div>
+			<!-- /container -->
+		</nav>
+		<!-- /NAVIGATION -->

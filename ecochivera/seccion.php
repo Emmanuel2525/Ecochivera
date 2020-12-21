@@ -63,49 +63,22 @@
 
 
 
-				<!-- HOT DEAL SECTION -->
-				<div id="hot-deal" class="section">
+				
+		<!-- Welcome -->
+		<div id="welcome" class="section">
 			<!-- container -->
 			<div class="container">
 				<!-- row -->
 				<div class="row">
 					<div class="col-md-12">
 						<div class="hot-deal">
-							<ul class="hot-deal-countdown">
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>N</h3>
-										
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>G</h3>
-									
-									</div>
-								</li>
-								<li>
-									<div>
-										<h3>A</h3>
-									
-									</div>
-								</li>
-							</ul>
-							<h2 class="text-uppercase">Oferta de la semana</h2>
-							<p>50% de descuento</p>
-							<a class="primary-btn cta-btn" href="#">Comprar ya!</a>
+							
+							<div class="welcome">
+							<h2 class="text-uppercase">Alcance</h2>
+							<p>Mision</p>
+							<p>ect..</p>
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -113,8 +86,7 @@
 			</div>
 			<!-- /container -->
 		</div>
-		<!-- /HOT DEAL SECTION -->
-
+		<!-- /Welcome -->
 	
 
 

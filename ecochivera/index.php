@@ -1,48 +1,17 @@
 <?php	require('header.php');	?>
 
 
-		<!-- NAVIGATION -->
-		<nav id="navigation">
-			<!-- container -->
-			<div class="container">
-				<!-- responsive-nav -->
-				<div id="responsive-nav">
-					<!-- NAV -->
-				
-					<!-- /NAV -->
-				</div>
-				<!-- /responsive-nav -->
-			</div>
-			<!-- /container -->
-		</nav>
-		<!-- /NAVIGATION -->
+		
+
+
+
+
+		
 
 		
 		
 		
-		<!-- Welcome -->
-		<div id="welcome" class="section">
-			<!-- container -->
-			<div class="container">
-				<!-- row -->
-				<div class="row">
-					<div class="col-md-12">
-						<div class="hot-deal">
-							
-							<div class="welcome">
-							<h2 class="text-uppercase">¿QUE somos?</h2>
-							<p>Mision</p>
-							<p>ect..</p>
 
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /row -->
-			</div>
-			<!-- /container -->
-		</div>
-		<!-- /Welcome -->
 
 
 
@@ -1059,10 +1028,10 @@
 							<h3>¡Vuelve pronto!<h3>
 
 							
-							<a class="primary-btn cta-btn" href="https://wa.me/+584241064747"><i class="fa fa-whatsapp"></i></a>
-							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/"><i class="fa fa-instagram"></i></a>
-							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve"><i class="fa fa-envelope-o"></i></a>
-							<a class="primary-btn cta-btn" href="https://goo.gl/maps/ptccMEPURGVaEzD16"><i class="fa fa-map-marker"></i></a>
+							<a class="primary-btn cta-btn" href="https://wa.me/+584241064747" target="_blank"><i class="fa fa-whatsapp"></i></a>
+							<a class="primary-btn cta-btn" href="https://www.instagram.com/ecochivera/" target="_blank"><i class="fa fa-instagram"></i></a>
+							<a class="primary-btn cta-btn" href="mailto:ventas.ecochivera@gmail.com.ve" target="_blank"><i class="fa fa-envelope-o"></i></a>
+							<a class="primary-btn cta-btn" href="https://goo.gl/maps/ptccMEPURGVaEzD16" target="_blank"><i class="fa fa-map-marker"></i></a>
 
 							
 							
