@@ -454,8 +454,8 @@ textarea.input {
 \*----------------------------*/
 
 #header {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 12px;
+  padding-bottom: 10px;
   background-color: #15161D;
 }
 
@@ -804,6 +804,28 @@ textarea.input {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+
+
+#welcome.section {
+  padding-bottom: 20px;
+  margin: 10px 0px 0px 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
+  
+}
+
+
+#welcome .welcome{
+
+ 
+
+}
+
+
+
 
 .hot-deal {
   text-align: center;

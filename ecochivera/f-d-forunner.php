@@ -41,7 +41,7 @@
 					<!-- Product details -->
 					<div class="col-md-5">
 						<div class="product-details">
-							<h2 class="product-name">FARO DERECHO TOYOTA FORUNNER</h2>
+							<h2 class="product-name">FARO DERECHO TOYOTA FORUNNER (usado)</h2>
 							<div>
 								<div class="product-rating">
 									<i class="fa fa-star"></i>
@@ -56,8 +56,8 @@
 								<h3 class="product-price">$100.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Faro derecho de TOYOTA 4RUNNER en buenas condiciones. <br> 
-							si te interesa este producto, no dudes en contactarnos.
+							<p>Faro derecho de TOYOTA 4RUNNER. <br> 
+							
 						 	</p>
 
 							<br>
