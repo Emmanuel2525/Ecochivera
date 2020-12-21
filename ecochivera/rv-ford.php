@@ -56,7 +56,7 @@
 								<h3 class="product-price">$30.00 <span>(c/u)</span><del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Retrovisor izquierdo y derecho de FORD FIESTA POWER 2004 sin luna. <br>Si te interesa este producto, no dudes en contactarnos.</p>
+							<p>Retrovisor izquierdo y derecho de FORD FIESTA POWER 2004 sin luna.</p>
 
 							<br>
 

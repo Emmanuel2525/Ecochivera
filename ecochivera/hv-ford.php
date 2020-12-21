@@ -65,7 +65,7 @@
 								<h3 class="product-price">$30.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Hidrovac para frenos de FORD FIESTA POWER en buen estado (usado).<br>Si te interesa este producto, no dudes en contactarnos. </p>
+							<p>Hidrovac para frenos de FORD FIESTA POWER en buen estado (usado).</p>
 
 							<br>
 

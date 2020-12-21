@@ -65,7 +65,8 @@
 								<h3 class="product-price">$45.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Guardafango delantero derecho KIA PICANTO nuevo.  <br>Si te interesa este producto, no dudes en contactarnos.</p>
+							<p>Guardafango delantero derecho KIA PICANTO nuevo.
+							</p>
 
 							<br>
 

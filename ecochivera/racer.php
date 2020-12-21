@@ -66,7 +66,7 @@
 								<h3 class="product-price">$30.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Guardafango delantero derecho de daewoo racer 1995/1997 usado en buen estado. <br>Si te interesa este producto, no dudes en contactarnos.</p>
+							<p>Guardafango delantero derecho de daewoo racer 1995/1997 usado en buen estado.</p>
 
 							<br>
 

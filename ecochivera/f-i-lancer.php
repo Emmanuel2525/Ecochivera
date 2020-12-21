@@ -56,7 +56,7 @@
 								<h3 class="product-price">$65.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Faro izquiedo de mitsubishi lancer touring 2.0 en buen estado. <br>Si te interesa este producto, no dudes en contactarnos. </p>
+							<p>Faro izquiedo de mitsubishi lancer touring 2.0 en buen estado.</p>
 
 							<br>
 

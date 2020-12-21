@@ -57,7 +57,7 @@
 								<h3 class="product-price">$140.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Airbag de tablero lado copiloto del mitsubishi lancer touring 2.0 en buenas condiciones (usado).<br>Si te interesa este producto, no dudes en contactarnos. </p>
+							<p>Airbag de tablero lado copiloto del mitsubishi lancer touring 2.0 en buenas condiciones (usado). </p>
 
 							<br>
 

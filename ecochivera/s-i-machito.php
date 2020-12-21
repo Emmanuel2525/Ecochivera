@@ -58,7 +58,7 @@
 								<h3 class="product-price">$35.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Stop izquierdo de TOYOTA MACHITO usado (sin detalle).  <br>Si te interesa este producto, no dudes en contactarnos.</p>
+							<p>Stop izquierdo de TOYOTA MACHITO usado (sin detalle).</p>
 
 							<br>
 

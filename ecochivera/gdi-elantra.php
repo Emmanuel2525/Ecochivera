@@ -66,7 +66,7 @@
 								<h3 class="product-price">$50.00 <del class="product-old-price"></del></h3>
 								<span class="product-available">Disponible</span>
 							</div>
-							<p>Guardafango delantero izquierdo HYUNDAI ELANTRA 1998-2000 nuevo.  <br>Si te interesa este producto, no dudes en contactarnos. </p>
+							<p>Guardafango delantero izquierdo HYUNDAI ELANTRA 1998-2000 nuevo.</p>
 
 							<br>
 
